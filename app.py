@@ -1,8 +1,9 @@
 import os
 
 from flask import Flask, request
-from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
+from flask_migrate import Migrate
+from flask_sqlalchemy import SQLAlchemy
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -11,10 +12,11 @@ DB_URI = 'sqlite:///' + os.path.join(BASE_DIR, DB_NAME)
 
 
 app = Flask(__name__)
-db = SQLAlchemy(app)
-ma = Marshmallow(app)
-
 app.config['SQLALCHEMY_DATABASE_URI'] = DB_URI
+
+db = SQLAlchemy(app)
+migrate = Migrate(app, db)
+ma = Marshmallow(app)
 
 
 class Card(db.Model):
