@@ -1,6 +1,6 @@
 import os
 
-from flask import Flask, request
+from flask import Flask, request, Response
 from flask_migrate import Migrate
 
 from .db import db
@@ -28,7 +28,7 @@ def create_app():
 
     @app.route('/', methods=['GET'])
     def index():
-        return 'T206 Data API'
+        return Response('T206 Data API', mimetype='text/plain')
 
     @app.route('/cards', methods=['GET'])
     def get_cards():

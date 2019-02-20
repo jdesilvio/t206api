@@ -2,7 +2,7 @@
 Card schema
 """
 
-from .ma import ma
+from ..ma import ma
 
 
 class CardSchema(ma.Schema):
