@@ -25,7 +25,7 @@ setup(
     packages=find_packages(),
     install_requires=install_requires,
     test_requires=test_requires,
-    test_suite = 'nose.collector',
+    test_suite='nose.collector',
     author='John DeSilvio',
     description='T206 Data API',
     long_description=read('README.md'),
