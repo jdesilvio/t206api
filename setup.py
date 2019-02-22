@@ -1,9 +1,11 @@
+"""Setup package."""
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
-from setuptools import setup, find_packages
+from setuptools import find_packages, setup
 
 
 install_requires = [
@@ -19,8 +21,9 @@ test_requires = [
 
 
 def read(fname):
-    with open(fname) as f:
-        content = f.read()
+    """Read file contents."""
+    with open(fname) as fn:
+        content = fn.read()
     return content
 
 

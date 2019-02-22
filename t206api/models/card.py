@@ -1,6 +1,4 @@
-"""
-Card model
-"""
+"""Card model."""
 
 from __future__ import absolute_import
 from __future__ import division
@@ -11,6 +9,8 @@ from ..db import db
 
 
 class Card(db.Model):
+    """Card model definition."""
+
     id = db.Column(db.Integer, primary_key=True)
     first_name = db.Column(db.String(64), nullable=False)
     last_name = db.Column(db.String(64), nullable=False)
