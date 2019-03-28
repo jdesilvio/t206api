@@ -16,12 +16,12 @@ class Card(db.Model):
     last_name = db.Column(db.String(64), nullable=False)
     variety = db.Column(db.String(256))
 
-    def __repr__(self):
+    def __repr__(self):  # pragma: no cover
         variety = ' ({})'.format(self.variety) if self.variety else ''
         return "<Card [{}] '{} {}{}'>".format(
             self.id, self.first_name, self.last_name, variety)
 
-    def __str__(self):
+    def __str__(self):  # pragma: no cover
         variety = ' ({})'.format(self.variety) if self.variety else ''
         return '{} {}{}'.format(
             self.first_name, self.last_name, variety)

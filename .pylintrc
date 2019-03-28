@@ -140,6 +140,9 @@ disable=print-statement,
         exception-escape,
         comprehension-escape,
         relative-beyond-top-level,
+        too-few-public-methods,    # because of Marshmallow
+        unnecessary-lambda,        # becasue of Marshmallow
+        no-member,                 # becasue of Marshmallow and SQLAlchemy
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
