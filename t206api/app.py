@@ -23,10 +23,11 @@ DB_NAME = 'db.sqlite'
 DB_URI = 'sqlite:///' + os.path.join(BASE_DIR, '..', DB_NAME)
 
 
-def create_app():
+def create_app(db_uri=None):
     """Create the Flask application."""
     app = Flask(__name__.split('.')[1])
-    app.config['SQLALCHEMY_DATABASE_URI'] = DB_URI
+    db_uri = db_uri if db_uri else DB_URI
+    app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
 
     # Setup database
     db.app = app
@@ -50,7 +51,10 @@ def create_app():
     @app.route('/cards/<int:card_id>', methods=['GET'])
     def get_card(card_id):
         """Get a card by id."""
-        Card.query.get(card_id)
+        card = Card.query.get(card_id)
+        if not card:
+            return 'Card not found', 404
+        return card_schema.jsonify(card)
 
     @app.route('/cards', methods=['POST'])
     def create_card():
