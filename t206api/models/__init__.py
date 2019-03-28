@@ -6,3 +6,4 @@ from __future__ import print_function
 from __future__ import unicode_literals
 
 from .card import Card  # noqa: F401
+from .factory import Factory  # noqa: F401
