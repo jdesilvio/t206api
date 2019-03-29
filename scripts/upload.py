@@ -2,19 +2,24 @@
 
 import csv
 
-from t206api.models import Factory, Card
+from t206api.models import Factory, Series
 
 from t206api.app import create_app
 from t206api.db import db
 
 
+def upload_data(filepath, model):
+    with open(filepath) as f:
+        reader = csv.DictReader(f)
+        for item in reader:
+            inst = model(**item)
+            db.session.add(inst)
+            db.session.commit()
+            print(inst.id, inst)
+
+
 if __name__ == '__main__':
     app = create_app()
 
-    with open('./data/factory.csv') as f:
-        reader = csv.DictReader(f)
-        for item in reader:
-            factory = Factory(**item)
-            db.session.add(factory)
-            db.session.commit()
-            print(factory.id, factory)
+    upload_data('./data/factory.csv', Factory)
+    upload_data('./data/series.csv', Series)
