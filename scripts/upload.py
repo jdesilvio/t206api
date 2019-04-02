@@ -2,7 +2,7 @@
 
 import csv
 
-from t206api.models import Factory, Series
+from t206api.models import Factory, Series, Team
 
 from t206api.app import create_app
 from t206api.db import db
@@ -23,3 +23,4 @@ if __name__ == '__main__':
 
     upload_data('./data/factory.csv', Factory)
     upload_data('./data/series.csv', Series)
+    upload_data('./data/team.csv', Team)
