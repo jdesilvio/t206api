@@ -32,6 +32,10 @@ class Card(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
 
+    # The number used in Lew Lipset's
+    # "Encyclopedia of Baseball Cards, Volume 3"
+    lipset_number = db.Column(db.Integer, nullable=True)
+
     # First name of the player depicted on the card
     first_name = db.Column(db.String(64), nullable=False)
 
