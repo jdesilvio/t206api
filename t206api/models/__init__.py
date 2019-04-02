@@ -8,3 +8,4 @@ from __future__ import unicode_literals
 from .card import Card  # noqa: F401
 from .factory import Factory  # noqa: F401
 from .series import Series  # noqa: F401
+from .team import Team  # noqa: F401
