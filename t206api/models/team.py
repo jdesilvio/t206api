@@ -34,7 +34,7 @@ class Team(db.Model):
     city = db.Column(db.String(64), nullable=False)
 
     # The league of the team
-    league = db.Column(LeagueEnum, nullable=False)
+    league = db.Column(db.String(64), nullable=False)
 
     def __repr__(self):  # pragma: no cover
         return "<Team [{}] '{}, {}'>".format(

@@ -5,6 +5,7 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
+from .team import teams
 from ..db import db
 
 
@@ -45,19 +46,19 @@ class Card(db.Model):
 
     # A commonly recognized variation of the card, but
     # not a unique design
-    variation = db.Column(db.String(256))
+    variation = db.Column(db.String(256), nullable=True)
 
     # Team name as it appears on a nameplate (non-normalized)
     team_name = db.Column(db.String(64), nullable=False)
 
     # Whether the card is a portrait
-    portrait = db.column(db.Boolean, nullable=False)
+    portrait = db.Column(db.Boolean, nullable=False)
 
     # Whether the card is horizontal (landscape)
-    horizontal = db.column(db.Boolean, nullable=False)
+    horizontal = db.Column(db.Boolean, nullable=False)
 
     # The team(s) the player is on
-    teams = db.Relationship(
+    teams = db.relationship(
         'Team', secondary=teams, lazy='subquery',
         backref=db.backref('cards', lazy=True))
 
