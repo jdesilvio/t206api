@@ -25,7 +25,8 @@ class Card(db.Model):
     team name, but multiple team IDs.
 
     A design is defined as a unique combination of:
-        * player
+        * first name
+        * last name
         * pose
         * team
     """
@@ -43,17 +44,22 @@ class Card(db.Model):
     last_name = db.Column(db.String(64), nullable=False)
 
     # The pose the player is taking in the image
-    # The one exception to this is "Sherry Magie (Magee)"
-    # where the pose is the same as the "Sherry Magee"
-    # card, but the name is misspelled
+    # Typically this is the pose, but is also used
+    # for the common way the card is referred to.
+    # For example, the Sherry Magie card has "Magee"
+    # as the pose. Others may have the team as the pose.
     pose = db.Column(db.String(64), nullable=True)
 
     # A commonly recognized variation of the card, but
-    # not a unique design
+    # not a unique design. These are mostly printing
+    # errors that resulted in noticeable variations.
     variation = db.Column(db.String(256), nullable=True)
 
     # Team name as it appears on a nameplate (non-normalized)
     team_name = db.Column(db.String(64), nullable=False)
+
+    # Whether the player is a Hall of Famer
+    hof = db.Column(db.Boolean, nullable=False)
 
     # Whether the card is a portrait
     portrait = db.Column(db.Boolean, nullable=False)
