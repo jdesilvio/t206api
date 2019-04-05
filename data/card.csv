@@ -1,525 +1,525 @@
-first_name,last_name,pose,team_name,hof,portrait,horizontal
-Ed,Abbaticchio,Brown Sleeves,Pittsburgh,F,,F
-Ed,Abbaticchio,Blue Sleeves,Pittsburgh,F,,F
-Fred,Abbott,,Toledo,F,T,F
-Bill,Abstein,,Pittsburgh,F,T,F
-Doc,Adkins,,Baltimore,F,T,F
-Whitey,Alperman,,Brooklyn,F,,F
-Red,Ames,Portrait,N. Y. Nat'l,F,T,F
-Red,Ames,Hands At Chest,N. Y. Nat'l,F,,F
-Red,Ames,Hands Over Head,N. Y. Nat'l,F,,F
-John,Anderson,,Providence,F,,F
-Frank,Arellanes,,Boston Amer.,F,,F
-Herman,Armbruster,,St. Paul,F,T,F
-Harry,Arndt,,Providence,F,T,F
-Jake,Atz,,Chicago Amer.,F,T,F
-Home Run,Baker,,Phila. Amer.,T,,F
-Neal,Ball,New York,N. Y. Amer.,F,,F
-Neal,Ball,Cleveland,Cleveland,F,,F
-Jap,Barbeau,,St. Louis Nat'l.,F,,F
-Cy,Barger,,Rochester,F,T,F
-Jack,Barry,,Phila. Amer.,F,T,F
-Shad,Barry,,Milwaukee,F,T,F
-Jack,Bastian,,San Antonio,F,,F
-Emil,Batch,,Rochester,F,T,F
-Johnny,Bates,,Boston Nat'l.,F,,F
-Harry,Bay,,Nashville,F,,F
-Ginger,Beaumont,,Boston Nat'l.,F,T,F
-Fred,Beck,,Boston Nat'l.,F,,F
-Beals,Becker,,Boston Nat'l.,F,,F
-Jake,Beckley,,Kansas City,T,T,F
-George,Bell,Hands Above Head,Brooklyn,F,,F
-George,Bell,Follow Through,Brooklyn,F,,F
-Chief,Bender,Portrait,Phila. Amer.,T,T,F
-Chief,Bender,"Pitching, Trees In Back",Phila. Amer.,T,,F
-Chief,Bender,"Pitching, No Trees",Phila. Amer.,T,,F
-Bill,Bergen,Batting,Brooklyn,F,,F
-Bill,Bergen,Catching,Brooklyn,F,,F
-Heinie,Berger,,Cleveland,F,,F
-Bill,Bernhard,,Nashville,F,,F
-Bob,Bescher,Portrait,Cincinnati,F,T,F
-Bob,Bescher,Hands In Air,Cincinnati,F,,F
-Joe,Birmingham,,Cleveland,F,,T
-Lena,Blackburne,,Providence,F,,F
-Jack,Bliss,,St. Louis Nat'l.,F,,F
-Frank,Bowerman,,Boston Nat'l.,F,T,F
-Bill,Bradley,Portrait,Cleveland,F,T,F
-Bill,Bradley,With Bat,Cleveland,F,,F
-Dave,Brain,,Buffalo,F,T,F
-Kitty,Bransfield,,Phila. Nat'l.,F,,F
-Roy,Brashear,,Kansas City,F,T,F
-Ted,Breitenstein,,New Orleans,F,,F
-Roger,Bresnahan,Portrait,St. Louis Nat'l.,T,T,F
-Roger,Bresnahan,With Bat,St. Louis Nat'l.,T,,F
-Al,Bridwell,No Cap,N. Y. Nat'l,F,T,F
-Al,Bridwell,With Cap,N. Y. Nat'l,F,,F
-Mordecai,Brown,Portrait,Chicago Nat'l.,T,T,F
-Mordecai,Brown,Cubs Shirt,Chicago Nat'l.,T,,F
-Mordecai,Brown,Chicago Shirt,Chicago Nat'l.,T,,F
-George,Brown,Chicago,Chicago Nat'l.,F,,F
-George,Brown,Washington,Washington,F,,F
-Al,Burch,Batting,Brooklyn,F,,F
-Al,Burch,Fielding,Brooklyn,F,,F
-Fred,Burchell,,Buffalo,F,,F
-Jimmy,Burke,,Indianapolis,F,T,F
-Bill,Burns,,Chicago Amer.,F,,F
-Donie,Bush,,Detroit,F,,F
-John,Butler,,Rochester,F,T,F
-Bobby,Byrne,,St. Louis Nat'l.,F,,F
-Howie,Camnitz,Arms Folded,Pittsburgh,F,,F
-Howie,Camnitz,Arm At Side,Pittsburgh,F,,F
-Howie,Camnitz,Hands Over Head,Pittsburgh,F,,F
-Billy,Campbell,,Cincinnati,F,,F
-Scoops,Carey,,Memphis,F,,F
-Charley,Carr,,Indianapolis,F,T,F
-Bill,Carrigan,,Boston Amer.,F,,F
-Doc,Casey,,Montreal,F,T,F
-Peter,Cassidy,,Baltimore,F,T,F
-Frank,Chance,Red Portrait,Chicago Nat'l.,T,T,F
-Frank,Chance,Yellow Portrait,Chicago Nat'l.,T,T,F
-Frank,Chance,Batting,Chicago Nat'l.,T,,F
-Bill,Chappelle,,Rochester,F,,F
-Chappie,Charles,,St. Louis Nat'l.,F,,F
-Hal,Chase,Pink Portrait,N. Y. Amer.,F,T,F
-Hal,Chase,Blue Portrait,N. Y. Amer.,F,T,F
-Hal,Chase,Throwing White Cap,N. Y. Amer.,F,,F
-Hal,Chase,Throwing Dark Cap,N. Y. Amer.,F,,F
-Hal,Chase,Holding Trophy,N. Y. Amer.,F,,F
-Jack,Chesbro,,N. Y. Amer.,T,T,F
-Ed,Cicotte,,Boston Amer.,F,,F
-Bill,Clancy,,Buffalo,F,,F
-Josh,Clark,,Columbus,F,,F
-Fred,Clarke,Portrait,Pittsburgh,T,T,F
-Fred,Clarke,Holding Bat,Pittsburgh,T,,F
-J.J.,Clarke,,Cleveland,F,,F
-Bill,Clymer,,Columbus,F,,F
-Ty,Cobb,Green Portrait,Detroit,T,T,F
-Ty,Cobb,Red Portrait,Detroit,T,T,F
-Ty,Cobb,Bat On Shoulder,Detroit,T,,F
-Ty,Cobb,Bat Off Shoulder,Detroit,T,,F
-Cad,Coles,,Augusta,F,T,F
-Eddie,Collins,,Phila. Amer.,T,T,F
-Jimmy,Collins,,Minneapolis,T,T,F
-Bunk,Congalton,,Columbus,F,T,F
-Wid,Conroy,Fielding,Washington,F,,F
-Wid,Conroy,With Bat,Washington,F,,F
-Harry,Covaleski,,Phila. Nat'l,F,,F
-Doc,Crandall,No Cap,N. Y. Nat'l.,F,T,F
-Doc,Crandall,With Cap,N. Y. Nat'l.,F,T,F
-Bill,Cranston,,Memphis,F,,F
-Gavvy,Cravath,,Minneapolis,F,,F
-Sam,Crawford,Throwing,Detroit,T,,F
-Sam,Crawford,With Bat,Detroit,T,,F
-Birdie,Cree,,N. Y. Amer.,F,,F
-Lou,Criger,,St. Louis Amer.,F,T,F
-Dode,Criss,,St. Louis Amer.,F,,F
-Monte,Cross,,Indianapolis,F,,F
-Bill,Dahlen,Boston,Boston Nat'l.,F,T,F
-Bill,Dahlen,Brooklyn,Brooklyn,F,T,F
-Paul,Davidson,,Indianapolis,F,T,F
-George,Davis,,Chicago Amer.,T,,F
-Harry,Davis,H. Davis on Front,Phila. Amer.,F,,F
-Harry,Davis,Davis on Front,Phila. Amer.,F,,F
-Frank,Delehanty,,Louisville,F,T,F
-Jim,Delehanty,,Washington,F,,F
-Ray,Demmitt,New York,N. Y. Amer.,F,,F
-Ray,Demmitt,St. Louis,St. Louis Amer.,F,,F
-Rube,Dessau,,Baltimore,F,T,F
-Art,Devlin,,N. Y. Nat'l.,F,T,F
-Josh,Devore,,N. Y. Nat'l.,F,,F
-Bill,Dineen,,St. Louis Amer.,F,,F
-Mike,Donlin,Fielding,N. Y. Nat'l.,F,,F
-Mike,Donlin,Seated,N. Y. Nat'l.,F,,F
-Mike,Donlin,With Bat,N. Y. Nat'l.,F,,F
-Jiggs,Donohue,,Chicago Amer.,F,,F
-Wild Bill,Donovan,Portrait,Detroit,F,T,F
-Wild Bill,Donovan,Throwing,Detroit,F,,F
-Red,Dooin,,Phila. Nat'l,F,,F
-Mickey,Doolan,Batting,Phila. Nat'l,F,,F
-Mickey,Doolan,Fielding,Phila. Nat'l,F,,F
-Mickey,Doolin,,Phila. Nat'l,F,T,F
-Gus,Dorner,,Kansas City,F,T,F
-Patsy,Dougherty,Portrait,Chicago Amer.,F,T,F
-Patsy,Dougherty,Arm In Air,Chicago Amer.,F,,F
-Tom,Downey,Fielding,Cincinnati,F,,F
-Tom,Downey,Batting,Cincinnati,F,,F
-Jerry,Downs,,Minneapolis,F,T,F
-Larry,Doyle,Portrait,N. Y. Nat'l.,F,T,F
-Joe,Doyle,N.Y. Nat'l,N. Y. Nat'l.,F,,F
-Joe,Doyle,N.Y.,N. Y.,F,,F
-Larry,Doyle,Throwing,N. Y. Nat'l.,F,,F
-Larry,Doyle,With Bat,N. Y. Nat'l.,F,,F
-Jean,Dubuc,,Cincinnati,F,,F
-Hugh,Duffy,,Chicago Amer.,T,,F
-Jack,Dunn,,Baltimore,F,,F
-Joe,Dunn,,Brooklyn,F,,F
-Bull,Durham,,N. Y. Nat'l.,F,T,F
-Jimmy,Dygert,,Phila. Amer.,F,T,F
-Ted,Easterly,,Cleveland,F,T,F
-Dick,Egan,,Cincinnati,F,T,F
-Kid,Elberfeld,"New York, Portrait",N. Y. Amer.,F,T,F
-Kid,Elberfeld,"Washington, Portrait",Washington,F,T,F
-Kid,Elberfeld,Fielding,Washington,F,,F
-Roy,Ellam,,Nashville,F,,F
-Clyde,Engle,,N. Y. Amer.,F,,F
-Steve,Evans,,St. Louis Nat'l.,F,,F
-Johnny,Evers,Portrait,Chicago Nat'l.,T,T,F
-Johnny,Evers,"With Bat, Cubs On Shirt",Chicago Nat'l.,T,,F
-Johnny,Evers,"With Bat, Chicago On Shirt",Chicago Nat'l.,T,,F
-Bob,Ewing,,Cincinnati,F,,F
-Cecil,Ferguson,,Boston Nat'l.,F,,F
-Hobe,Ferris,,St. Louis Amer.,F,,F
-Lou,Fiene,Portrait,Chicago Amer.,F,T,F
-Lou,Fiene,Throwing,Chicago Amer.,F,,F
-Steamer,Flanagan,,Buffalo,F,T,F
-Art,Fletcher,,N. Y. Nat'l.,F,,F
-Elmer,Flick,,Cleveland,T,,F
-Russ,Ford,,N. Y. Amer.,F,,F
-Ed,Foster,,Charleston,F,T,F
-Jerry,Freeman,,Toledo,F,,F
-John,Frill,,N. Y. Amer.,F,,F
-Charlie,Fritz,,New Orleans,F,,F
-Art,Fromme,,Cincinnati,F,,F
-Chick,Gandil,,Chicago Amer.,F,,F
-Bob,Ganley,,Washington,F,,F
-John,Ganzel,,Rochester,F,,F
-Harry,Gasper,,Cincinnati,F,,F
-Rube,Geyer,,St. Louis Nat'l.,F,,F
-George,Gibson,,Pittsburgh,F,T,F
-Billy,Gilbert,,St. Louis Nat'l.,F,,F
-Wilbur,Goode,,Cleveland,F,,F
-Bill,Graham,,St. Louis Amer.,F,,F
-Peaches,Graham,,Boston Nat'l.,F,,F
-Dolly,Gray,,Washington,F,,F
-Ed,Greminger,,Montgomery,F,T,F
-Clark,Griffith,Portrait,Cincinnati,T,T,F
-Clark,Griffith,Batting,Cincinnati,T,,F
-Moose,Grimshaw,,Toronto,F,T,F
-Bob,Groom,,Washington,F,,F
-Tom,Guiheen,,Portsmouth,F,T,F
-Ed,Hahn,,Chicago Amer.,F,,F
-Bob,Hall,,Baltimore,F,T,F
-Bill,Hallman,,Kansas City,F,T,F
-Jack,Hannifan,,Jersey City,F,,F
-Bill,Hart,,Little Rock,F,T,F
-Jimmy,Hart,,Montgomery,F,,F
-Topsy,Hartsel,,Phila. Amer.,F,,F
-Jack,Hayden,,Indianapolis,F,,F
-J. Ross,Helm,,Columbus,F,T,F
-Charlie,Hemphill,,N. Y. Amer.,F,,F
-Buck,Herzog,New York,N. Y. Nat'l.,F,,F
-Buck,Herzog,Boston,Boston Nat'l.,F,,F
-Gordon,Hickman,,Mobile,F,T,F
-Harry,Hinchman,,Toledo,F,T,F
-Bill,Hinchman,,Cleveland,F,,F
-Dick,Hoblitzell,,Cincinnati,F,,F
-Izzy,Hoffman,,Providence,F,T,F
-Danny,Hoffman,,St. Louis Amer.,F,,F
-Solly,Hofman,,Chicago Nat'l.,F,,F
-Bock,Hooker,,Lynchburg,F,T,F
-Del,Howard,,Chicago Nat'l.,F,,F
-Ernie,Howard,,Savannah,F,,F
-Harry,Howell,Portrait,St. Louis Amer.,F,T,F
-Harry,Howell,Hand At Waist,St. Louis Amer.,F,,F
-Miller,Huggins,Portrait,Cincinnati,T,T,F
-Miller,Huggins,Hands At Mouth,Cincinnati,T,,F
-Rudy,Hulswitt,,St. Louis Nat'l.,F,,F
-John,Hummel,,Brooklyn,F,,F
-George,Hunter,,Brooklyn,F,,F
-Frank,Isbell,,Chicago Amer.,F,,F
-Fred,Jacklitsch,,Phila. Nat'l.,F,,F
-Jimmy,Jackson,,Baltimore,F,T,F
-Hughie,Jennings,Portrait,Detroit,T,T,F
-Hughie,Jennings,One Hand Showing,Detroit,T,,F
-Hughie,Jennings,Both Hands Showing,Detroit,T,,F
-Walter,Johnson,Portrait,Washington,T,T,F
-Walter,Johnson,Hands At Chest,Washington,T,,F
-Fielder,Jones,Portrait,Chicago Amer.,F,T,F
-Davy,Jones,,Detroit,F,,F
-Fielder,Jones,Hands on Hips,Chicago Amer.,F,,F
-Tom,Jones,,St. Louis Nat'l.,F,,F
-Tim,Jordan,Portrait,Brooklyn,F,T,F
-Dutch,Jordan,,Atlanta,F,,F
-Tim,Jordan,Batting,Brooklyn,F,,F
-Addie,Joss,Portrait,Cleveland,T,T,F
-Addie,Joss,Pitching,Cleveland,T,,F
-Ed,Karger,,Cincinnati,F,,F
-Willie,Keeler,Portrait,N. Y. Amer.,T,T,F
-Willie,Keeler,With Bat,N. Y. Amer.,T,,F
-Joe,Kelley,,Toronto,T,,F
-J.F.,Kiernan,,Columbia,F,T,F
-Ed,Killian,Portrait,Detroit,F,T,F
-Ed,Killian,Pitching,Detroit,F,,F
-Frank,King,,Danville,F,T,F
-Rube,Kisinger,,Buffalo,F,,F
-Red,Kleinow,With Bat,N. Y. Amer.,F,,F
-Red,Kleinow,"New York, Catching",N. Y. Amer.,F,,F
-Red,Kleinow,Boston,Boston,F,,F
-Johnny,Kling,,Chicago Nat'l.,F,T,F
-Otto,Knabe,,Phila. Nat'l.,F,,F
-Jack,Knight,Portrait,N. Y. Amer.,F,T,F
-Jack,Knight,With Bat,N. Y. Amer.,F,,F
-Ed,Konetchy,Glove Above Head,St. Louis Nat'l.,F,,F
-Ed,Konetchy,Glove Near Ground,St. Louis Nat'l.,F,,F
-Harry,Krause,Portrait,Phila. Amer.,F,T,F
-Harry,Krause,Pitching,Phila. Amer.,F,,F
-Rube,Kroh,,Chicago Nat'l.,F,,F
-Otto,Kruger,,Columbus,F,T,F
-James,LaFitte,,Macon,F,,F
-Nap,Lajoie,Portrait,Cleveland,T,T,F
-Nap,Lajoie,Throwing,Cleveland,T,,F
-Nap,Lajoie,With Bat,Cleveland,T,,F
-Joe,Lake,New York,N. Y. Amer.,F,,F
-Joe,Lake,"St. Louis, No Ball",St. Louis Amer.,F,,F
-Joe,Lake,Ball in Hand,St. Louis Amer.,F,,F
-Frank,LaPorte,,N. Y. Amer.,F,,F
-Arlie,Latham,,N. Y. Nat'l.,F,T,F
-Bill,Lattimore,,Toledo,F,,F
-Jimmy,Lavender,,Providence,F,,F
-Tommy,Leach,Portrait,Pittsburgh,F,T,F
-Tommy,Leach,Bending Over,Pittsburgh,F,,F
-Lefty,Leifield,Pitching,Pittsburgh,F,,F
-Lefty,Leifield,Batting,Pittsburgh,F,,F
-Ed,Lennox,,Brooklyn,F,,F
-Harry,Lentz,,Little Rock,F,T,F
-Glenn,Liebhardt,,Cleveland,F,,F
-Vive,Lindaman,,Boston Nat'l.,F,,F
-Perry,Lipe,,Richmond,F,T,F
-Paddy,Livingstone,,Phila. Amer.,F,,F
-Hans,Lobert,,Cincinnati,F,T,F
-Harry,Lord,,Boston Amer.,F,,F
-Harry,Lumley,,Brooklyn,F,T,F
-Carl,Lundgren,Chicago,Chicago Nat'l.,F,,F
-Carl,Lundgren,Kansas City,Kansas City,F,,F
-Nick,Maddox,,Pittsburgh,F,,F
-Sherry,Magee,Portrait,Phila. Nat'l.,F,T,F
-Sherry,Magee,With Bat,Phila. Nat'l.,F,,F
-Sherry,Magie,Magee,Phila. Nat'l.,F,T,F
-Bill,Malarkey,,Buffalo,F,T,F
-Billy,Maloney,,Rochester,F,,F
-George,Manion,,Columbia,F,T,F
-Rube,Manning,Batting,N. Y. Amer.,F,,F
-Rube,Manning,Pitching,N. Y. Amer.,F,,F
-Rube,Marquard,Portrait,N. Y. Nat'l.,T,T,F
-Rube,Marquard,Hands At Thighs,N. Y. Nat'l.,T,,F
-Rube,Marquard,Follow Through,N. Y. Nat'l.,T,,F
-Doc,Marshall,,Brooklyn,F,,F
-Christy,Mathewson,Portrait,N. Y. Nat'l.,T,T,F
-Christy,Mathewson,White Cap,N. Y. Nat'l.,T,,F
-Christy,Mathewson,Dark Cap,N. Y. Nat'l.,T,,F
-Al,Mattern,,Boston Nat'l.,F,T,F
-John,McAleese,,St. Louis Amer.,F,,F
-George,McBride,,Washington,F,,F
-Pat,McCauley,,Portsmouth,F,T,F
-Moose,McCormick,,N. Y. Nat'l.,F,,F
-Pryor,McElveen,,Brooklyn,F,,F
-Dan,McgGann,,Milwaukee,F,T,F
-Jim,McGinley,,Toronto,F,T,F
-Joe,McGinnity,,Newark,T,,F
-Stoney,McGlynn,,Milwaukee,F,T,F
-John,McGraw,"Portrait, No Cap",N. Y. Nat'l.,T,T,F
-John,McGraw,"Portrait, With Cap",N. Y. Nat'l.,T,T,F
-John,McGraw,Finger In Air,N. Y. Nat'l.,T,,F
-John,McGraw,Glove At Hip,N. Y. Nat'l.,T,,F
-Matty,McIntyre,Detroit,Detroit,F,T,F
-Harry,McIntyre,Brooklyn,Brooklyn,F,,F
-Harry,McIntyre,Brooklyn & Chicago,Brklyn & Chic,F,,F
-Larry,McLean,,Cincinnati,F,,F
-George,McQuillan,Ball In Hand,Phila. Nat'l.,F,,F
-George,McQuillan,With Bat,Phila. Nat'l.,F,,F
-Fred,Merkle,Portrait,N. Y. Nat'l.,F,T,F
-Fred,Merkle,Throwing,N. Y. Nat'l.,F,,F
-George,Merritt,,Jersey City,F,T,F
-Chief,Meyers,,N. Y. Nat'l.,F,T,F
-Clyde,Milan,,Washington,F,,F
-Dots,Miller,,Pittsburgh,F,,F
-Molly,Miller,,Dallas,F,,F
-Bill,Milligan,,Jersey City,F,T,F
-Fred,Mitchell,,Toronto,F,T,F
-Mike,Mitchell,,Cincinnati,F,,F
-Dan,Moeller,,Jersey City,F,T,F
-Carlton,Molesworth,,Birmingham,F,,F
-Herbie,Moran,,Providence,F,T,F
-Pat,Moran,,Chicago Nat'l.,F,,F
-George,Moriarty,,Detroit,F,,F
-Mike,Mowrey,,Cincinnati,F,,F
-Dom,Mullaney,,Jacksonville,F,,F
-George,Mullen,,Detroit,F,T,F
-George,Mullin,Throwing,Detroit,F,,T
-George,Mullin,With Bat,Detroit,F,,F
-Danny,Murphy,Throwing,Phila. Amer.,F,,T
-Danny,Murphy,Batting,Phila. Amer.,F,,F
-Red,Murray,Portrait,N. Y. Nat'l.,F,T,F
-Red,Murray,Batting,N. Y. Nat'l.,F,,F
-Chief,Myers,Batting,N. Y. Nat'l.,F,,F
-Chief,Myers,Fielding,N. Y. Nat'l.,F,,F
-Billy,Nattress,,Buffalo,F,T,F
-Tom,Needham,,Chicago Nat'l.,F,,F
-Simon,Nicholls,Hands On Knees,Phila. Amer.,F,,F
-Simon,Nichols,Batting,Phila. Amer.,F,,F
-Harry,Niles,,Boston Amer.,F,,F
-Peter,O'Brien,,St. Paul,F,,F
-Bill,O'Hara,New York,N. Y. Nat'l.,F,,F
-Bill,O'Hara,St. Louis,St. Louis Nat'l.,F,,F
-Charley,O'Leary,Portrait,Detroit,F,T,F
-Charley,O'Leary,Hands On Knees,Detroit,F,,F
-William J.,O'Neil,,Minneapolis,F,T,F
-Rebel,Oakes,,Cincinnati,F,,F
-Frank,Oberlin,,Minneapolis,F,,F
-Rube,Oldring,Fielding,Phila. Amer.,F,,F
-Rube,Oldring,Batting,Phila. Amer.,F,,F
-Al,Orth,,Lynchburg,F,,F
-William,Otey,,Norfolk,F,T,F
-Orval,Overall,Portrait,Chicago Nat'l.,F,T,F
-Orval,Overall,Hand Face Level,Chicago Nat'l.,F,,F
-Orval,Overall,Hands Waist Level,Chicago Nat'l.,F,,F
-Frank,Owen,,Chicago Amer.,F,,F
-George,Paige,,Charleston,F,T,F
-Fred,Parent,,Chicago Amer.,F,T,F
-Dode,Paskert,,Cincinnati,F,,F
-Jim,Pastorius,,Brooklyn,F,,F
-Harry,Pattee,,Brooklyn,F,,T
-Fred,Payne,,Chicago Amer.,F,,F
-Barney,Pelty,Horizontal,St. Louis Amer.,F,,T
-Barney,Pelty,Vertical,St. Louis Amer.,F,,F
-Hub,Perdue,,Nashville,F,,F
-George,Perring,,Cleveland,F,T,F
-Arch,Persons,,Montgomery,F,,F
-Francis,Pfeffer,,Chicago Nat'l.,F,,F
-Jake,Pfeister,Seated,Chicago Nat'l.,F,,F
-Jake,Pfeister,Throwing,Chicago Nat'l.,F,,F
-Jimmy,Phelan,,Providence,F,T,F
-Eddie,Phelps,,St. Louis Nat'l.,F,,F
-Deacon,Phillippe,,Pittsburgh,F,,F
-Ollie,Pickering,,Minneapolis,F,T,F
-Eddie,Plank,,Phila. Amer.,T,T,F
-Phil,Poland,,Baltimore,F,T,F
-Jack,Powell,,St. Louis Amer.,F,,T
-Mike,Powers,,Phila. Amer.,F,,F
-Billy,Purtell,,Chicago Amer.,F,,F
-Ambrose,Puttman,,Louisville,F,,F
-Lee,Quillen,,Minneapolis,F,T,F
-Jack,Quinn,,N. Y. Amer.,F,,F
-Newt,Randall,,Milwaukee,F,T,F
-Bugs,Raymond,,N. Y. Nat'l.,F,,F
-Ed,Reagan,,New Orleans,F,,F
-Ed,Reulbach,Glove Showing,Chicago Nat'l.,F,,F
-Ed,Reulbach,No Glove Showing,Chicago Nat'l.,F,,F
-Dutch,Revelle,,Richmond,F,T,F
-Bob,Rhoades,Hands At Chest,Cleveland,F,,F
-Bob,Rhoades,Right Arm Extended,Cleveland,F,,F
-Charlie,Rhodes,,St. Louis Nat'l.,F,T,F
-Claude,Ritchey,,Boston Nat'l.,F,,F
-Lou,Ritter,,Kansas City,F,,F
-Ike,Rockenfeld,,Montgomery,F,,F
-Claude,Rossman,,Detroit,F,T,F
-Nap,Rucker,Portrait,Brooklyn,F,T,F
-Nap,Rucker,Throwing,Brooklyn,F,,F
-Dick,Rudolph,,Toronto,F,T,F
-Ray,Ryan,,Roanoke,F,T,F
-Germany,Schaefer,Detroit,Detroit,F,,F
-Germany,Schaefer,Washington,Washington,F,,F
-George,Schirm,,Buffalo,F,,F
-Larry,Schlafly,,Newark,F,T,F
-Admiral,Schlei,Portrait,N. Y. Nat'l.,F,T,F
-Admiral,Schlei,Catching,N. Y. Nat'l.,F,,F
-Admiral,Schlei,Batting,N. Y. Nat'l.,F,,F
-Boss,Schmidt,Portrait,Detroit,F,T,F
-Boss,Schmidt,Throwing,Detroit,F,,F
-Ossee,Schreck,,Columbus,F,T,F
-Wildfire,Schulte,Front View,Chicago Nat'l.,F,,F
-Wildfire,Schulte,Back View,Chicago Nat'l.,F,,F
-Jim,Scott,,Chicago Amer.,F,,F
-Charles,Seitz,,Norfolk,F,T,F
-Cy,Seymour,Portrait,N. Y. Nat'l.,F,T,F
-Cy,Seymour,Batting,N. Y. Nat'l.,F,,F
-Cy,Seymour,Throwing,N. Y. Nat'l.,F,,F
-Spike,Shannon,,Kansas City,F,,F
-Bud,Sharpe,,Newark,F,T,F
-Shag,Shaughnessy,,Roanoke,F,T,F
-Al,Shaw,,St. Louis Nat'l.,F,T,F
-Hunky,Shaw,,Providence,F,,F
-Jimmy,Sheckard,No Glove Showing,Chicago Nat'l.,F,,F
-Jimmy,Sheckard,Glove Showing,Chicago Nat'l.,F,,F
-Bill,Shipke,,Washington,F,,F
-Jimmy,Slagle,,Baltimore,F,,F
-Carlos,Smith,,Shreveport,F,T,F
-Frank,Smith,F. Smith on Front,Chicago Amer.,F,,F
-Frank,Smith,White Cap,Chicago Amer.,F,,F
-Frank,Smith,Chicago & Boston,Chic & Bost Am.,F,,F
-Happy,Smith,,Brooklyn,F,,F
-Heinie,Smith,,Buffalo,F,,F
-Sid,Smith,,Atlanta,F,,F
-Fred,Snodgrass,Batting,N. Y. Nat'l.,F,,F
-Fred,Snodgrass,Catching,N. Y. Nat'l,F,,F
-Bob,Spade,,Cincinnati,F,T,F
-Tris,Speaker,,Boston Amer.,T,,F
-Tubby,Spencer,,Boston Amer.,F,,F
-Jake,Stahl,No Glove Shows,Boston Amer.,F,,F
-Jake,Stahl,Glove Shows,Boston Amer.,F,,F
-Oscar,Stanage,,Detroit,F,,F
-Dolly,Stark,,San Antonio,F,,F
-Charlie,Starr,,Boston Nat'l.,F,,F
-Harry,Steinfeldt,Portrait,Chicago Nat'l.,F,T,F
-Harry,Steinfeldt,With Bat,Chicago Nat'l.,F,,F
-Jim,Stephens,,St. Louis Amer.,F,,F
-George,Stone,,St. Louis Amer.,F,T,F
-George,Stovall,Portrait,Cleveland,F,T,F
-George,Stovall,Batting,Cleveland,F,,F
-Sam,Strang,,Baltimore,F,,F
-Gabby,Street,Portrait,Washington,F,T,F
-Gabby,Street,Catching,Washington,F,,F
-Billy,Sullivan,,Chicago Amer.,F,T,F
-Ed,Summers,,Detroit,F,,F
-Bill,Sweeney,,Boston Nat'l.,F,,F
-Jeff,Sweeney,,N. Y. Amer.,F,,F
-Jesse,Tannehill,,Washington,F,,F
-Lee,Tannehill,L. Tannehill on Front,Chicago Amer.,F,,F
-Lee,Tannehill,Tannehill on Front,Chicago Amer.,F,,F
-Dummy,Taylor,,Buffalo,F,,F
-Fred,Tenney,,N. Y. Nat'l.,F,T,F
-Tony,Thebo,,Waco,F,,F
-Jake,Thielman,,Louisville,F,T,F
-Ira,Thomas,,Phila. Amer.,F,,F
-Woodie,Thornton,,Mobile,F,,F
-Joe,Tinker,Portrait,Chicago Nat'l.,T,T,F
-Joe,Tinker,Hands On Knees,Chicago Nat'l.,T,,F
-Joe,Tinker,Bat Off Shoulder,Chicago Nat'l.,T,,F
-Joe,Tinker,Bat On Shoulder,Chicago Nat'l.,T,,F
-John,Titus,,Phila. Nat'l.,F,T,F
-Terry,Turner,,Cleveland,F,T,F
-Bob,Unglaub,,Washington,F,T,F
-Juan,Violat,,Jacksonville,F,,F
-Rube,Waddell,Portrait,St. Louis Amer.,T,T,F
-Rube,Waddell,Throwing,St. Louis Amer.,T,,F
-Honus,Wagner,,Pittsburgh,T,T,F
-Heinie,Wagner,Bat On Left Shoulder,Boston Amer.,F,,F
-Heinie,Wagner,Bat On Right Shoulder,Boston Amer.,F,,F
-Bobby,Wallace,,St. Louis Amer.,T,T,F
-Ed,Walsh,,Chicago Amer.,T,T,F
-Jack,Warhop,,N. Y. Amer.,F,,F
-Jake,Weimer,,N. Y. Nat'l.,F,T,F
-James,Westlake,,Danville,F,T,F
-Zack,Wheat,,Brooklyn,T,,F
-Doc,White,Portrait,Chicago Amer.,F,T,F
-Doc,White,Pitching,Chicago Amer.,F,,F
-Foley,White,,Houston,F,,F
-Jack,White,,Buffalo,F,,F
-Kaiser,Wilhelm,Hands At Chest,Brooklyn,F,,F
-Kaiser,Wilhelm,With Bat,Brooklyn,F,,F
-Ed,Willett,,Detroit,F,,F
-Ed,Willetts,,Detroit,F,,F
-Jimmy,Williams,,St. Louis Amer.,F,,F
-Vic,Willis,Portrait,Pittsburgh,T,T,F
-Vic,Willis,With Bat,St. Louis Nat'l.,T,,F
-Vic,Willis,Throwing,St. Louis Nat'l.,T,,F
-Owen,Wilson,,Pittsburgh,F,,F
-Hooks,Wiltse,"Portrait, No Cap",N. Y. Nat'l.,F,T,F
-Hooks,Wiltse,"Portrait, With Cap",N. Y. Nat'l.,F,T,F
-Hooks,Wiltse,Pitching,N. Y. Nat'l.,F,,F
-Lucky,Wright,,Toledo,F,T,F
-Cy,Young,Portrait,Cleveland,T,T,F
-Cy,Young,Bare Hand Shows,Cleveland,T,,F
-Cy,Young,Glove Shows,Cleveland,T,,F
-Irv,Young,,Minneapolis,F,,F
-Heinie,Zimmerman,,Chicago Nat'l.,F,,F
+first_name,last_name,pose,team_name,hof,portrait,horizontal,lipset_number
+Ed,Abbaticchio,Brown Sleeves,Pittsburgh,FALSE,FALSE,FALSE,
+Ed,Abbaticchio,Blue Sleeves,Pittsburgh,FALSE,FALSE,FALSE,
+Fred,Abbott,,Toledo,FALSE,TRUE,FALSE,
+Bill,Abstein,,Pittsburgh,FALSE,TRUE,FALSE,
+Doc,Adkins,,Baltimore,FALSE,TRUE,FALSE,
+Whitey,Alperman,,Brooklyn,FALSE,FALSE,FALSE,
+Red,Ames,Portrait,N. Y. Nat'l,FALSE,TRUE,FALSE,
+Red,Ames,Hands At Chest,N. Y. Nat'l,FALSE,FALSE,FALSE,
+Red,Ames,Hands Over Head,N. Y. Nat'l,FALSE,FALSE,FALSE,
+John,Anderson,,Providence,FALSE,FALSE,FALSE,
+Frank,Arellanes,,Boston Amer.,FALSE,FALSE,FALSE,
+Herman,Armbruster,,St. Paul,FALSE,TRUE,FALSE,
+Harry,Arndt,,Providence,FALSE,TRUE,FALSE,
+Jake,Atz,,Chicago Amer.,FALSE,TRUE,FALSE,
+Home Run,Baker,,Phila. Amer.,TRUE,FALSE,FALSE,
+Neal,Ball,New York,N. Y. Amer.,FALSE,FALSE,FALSE,
+Neal,Ball,Cleveland,Cleveland,FALSE,FALSE,FALSE,
+Jap,Barbeau,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Cy,Barger,,Rochester,FALSE,TRUE,FALSE,
+Jack,Barry,,Phila. Amer.,FALSE,TRUE,FALSE,
+Shad,Barry,,Milwaukee,FALSE,TRUE,FALSE,
+Jack,Bastian,,San Antonio,FALSE,FALSE,FALSE,
+Emil,Batch,,Rochester,FALSE,TRUE,FALSE,
+Johnny,Bates,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Harry,Bay,,Nashville,FALSE,FALSE,FALSE,
+Ginger,Beaumont,,Boston Nat'l.,FALSE,TRUE,FALSE,
+Fred,Beck,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Beals,Becker,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Jake,Beckley,,Kansas City,TRUE,TRUE,FALSE,
+George,Bell,Hands Above Head,Brooklyn,FALSE,FALSE,FALSE,
+George,Bell,Follow Through,Brooklyn,FALSE,FALSE,FALSE,
+Chief,Bender,Portrait,Phila. Amer.,TRUE,TRUE,FALSE,
+Chief,Bender,"Pitching, Trees In Back",Phila. Amer.,TRUE,FALSE,FALSE,
+Chief,Bender,"Pitching, No Trees",Phila. Amer.,TRUE,FALSE,FALSE,
+Bill,Bergen,Batting,Brooklyn,FALSE,FALSE,FALSE,
+Bill,Bergen,Catching,Brooklyn,FALSE,FALSE,FALSE,
+Heinie,Berger,,Cleveland,FALSE,FALSE,FALSE,
+Bill,Bernhard,,Nashville,FALSE,FALSE,FALSE,
+Bob,Bescher,Portrait,Cincinnati,FALSE,TRUE,FALSE,
+Bob,Bescher,Hands In Air,Cincinnati,FALSE,FALSE,FALSE,
+Joe,Birmingham,,Cleveland,FALSE,FALSE,TRUE,
+Lena,Blackburne,,Providence,FALSE,FALSE,FALSE,
+Jack,Bliss,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Frank,Bowerman,,Boston Nat'l.,FALSE,TRUE,FALSE,
+Bill,Bradley,Portrait,Cleveland,FALSE,TRUE,FALSE,
+Bill,Bradley,With Bat,Cleveland,FALSE,FALSE,FALSE,
+Dave,Brain,,Buffalo,FALSE,TRUE,FALSE,
+Kitty,Bransfield,,Phila. Nat'l.,FALSE,FALSE,FALSE,
+Roy,Brashear,,Kansas City,FALSE,TRUE,FALSE,
+Ted,Breitenstein,,New Orleans,FALSE,FALSE,FALSE,
+Roger,Bresnahan,Portrait,St. Louis Nat'l.,TRUE,TRUE,FALSE,
+Roger,Bresnahan,With Bat,St. Louis Nat'l.,TRUE,FALSE,FALSE,
+Al,Bridwell,No Cap,N. Y. Nat'l,FALSE,TRUE,FALSE,
+Al,Bridwell,With Cap,N. Y. Nat'l,FALSE,FALSE,FALSE,
+George,Brown,Chicago,Chicago Nat'l.,FALSE,FALSE,FALSE,
+George,Brown,Washington,Washington,FALSE,FALSE,FALSE,
+Mordecai,Brown,Portrait,Chicago Nat'l.,TRUE,TRUE,FALSE,
+Mordecai,Brown,Cubs Shirt,Chicago Nat'l.,TRUE,FALSE,FALSE,
+Mordecai,Brown,Chicago Shirt,Chicago Nat'l.,TRUE,FALSE,FALSE,
+Al,Burch,Batting,Brooklyn,FALSE,FALSE,FALSE,
+Al,Burch,Fielding,Brooklyn,FALSE,FALSE,FALSE,
+Fred,Burchell,,Buffalo,FALSE,FALSE,FALSE,
+Jimmy,Burke,,Indianapolis,FALSE,TRUE,FALSE,
+Bill,Burns,,Chicago Amer.,FALSE,FALSE,FALSE,
+Donie,Bush,,Detroit,FALSE,FALSE,FALSE,
+John,Butler,,Rochester,FALSE,TRUE,FALSE,
+Bobby,Byrne,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Howie,Camnitz,Arms Folded,Pittsburgh,FALSE,FALSE,FALSE,
+Howie,Camnitz,Arm At Side,Pittsburgh,FALSE,FALSE,FALSE,
+Howie,Camnitz,Hands Over Head,Pittsburgh,FALSE,FALSE,FALSE,
+Billy,Campbell,,Cincinnati,FALSE,FALSE,FALSE,
+Scoops,Carey,,Memphis,FALSE,FALSE,FALSE,
+Charley,Carr,,Indianapolis,FALSE,TRUE,FALSE,
+Bill,Carrigan,,Boston Amer.,FALSE,FALSE,FALSE,
+Doc,Casey,,Montreal,FALSE,TRUE,FALSE,
+Peter,Cassidy,,Baltimore,FALSE,TRUE,FALSE,
+Frank,Chance,Red Portrait,Chicago Nat'l.,TRUE,TRUE,FALSE,
+Frank,Chance,Yellow Portrait,Chicago Nat'l.,TRUE,TRUE,FALSE,
+Frank,Chance,Batting,Chicago Nat'l.,TRUE,FALSE,FALSE,
+Bill,Chappelle,,Rochester,FALSE,FALSE,FALSE,
+Chappie,Charles,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Hal,Chase,Pink Portrait,N. Y. Amer.,FALSE,TRUE,FALSE,
+Hal,Chase,Blue Portrait,N. Y. Amer.,FALSE,TRUE,FALSE,
+Hal,Chase,Throwing White Cap,N. Y. Amer.,FALSE,FALSE,FALSE,
+Hal,Chase,Throwing Dark Cap,N. Y. Amer.,FALSE,FALSE,FALSE,
+Hal,Chase,Holding Trophy,N. Y. Amer.,FALSE,FALSE,FALSE,
+Jack,Chesbro,,N. Y. Amer.,TRUE,TRUE,FALSE,
+Ed,Cicotte,,Boston Amer.,FALSE,FALSE,FALSE,
+Bill,Clancy,,Buffalo,FALSE,FALSE,FALSE,
+Josh,Clark,,Columbus,FALSE,FALSE,FALSE,
+J.J.,Clarke,,Cleveland,FALSE,FALSE,FALSE,
+Fred,Clarke,Portrait,Pittsburgh,TRUE,TRUE,FALSE,
+Fred,Clarke,Holding Bat,Pittsburgh,TRUE,FALSE,FALSE,
+Bill,Clymer,,Columbus,FALSE,FALSE,FALSE,
+Ty,Cobb,Green Portrait,Detroit,TRUE,TRUE,FALSE,
+Ty,Cobb,Red Portrait,Detroit,TRUE,TRUE,FALSE,
+Ty,Cobb,Bat On Shoulder,Detroit,TRUE,FALSE,FALSE,
+Ty,Cobb,Bat Off Shoulder,Detroit,TRUE,FALSE,FALSE,
+Cad,Coles,,Augusta,FALSE,TRUE,FALSE,
+Eddie,Collins,,Phila. Amer.,TRUE,TRUE,FALSE,
+Jimmy,Collins,,Minneapolis,TRUE,TRUE,FALSE,
+Bunk,Congalton,,Columbus,FALSE,TRUE,FALSE,
+Wid,Conroy,Fielding,Washington,FALSE,FALSE,FALSE,
+Wid,Conroy,With Bat,Washington,FALSE,FALSE,FALSE,
+Harry,Covaleski,,Phila. Nat'l,FALSE,FALSE,FALSE,
+Doc,Crandall,No Cap,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Doc,Crandall,With Cap,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Bill,Cranston,,Memphis,FALSE,FALSE,FALSE,
+Gavvy,Cravath,,Minneapolis,FALSE,FALSE,FALSE,
+Sam,Crawford,Throwing,Detroit,TRUE,FALSE,FALSE,
+Sam,Crawford,With Bat,Detroit,TRUE,FALSE,FALSE,
+Birdie,Cree,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Lou,Criger,,St. Louis Amer.,FALSE,TRUE,FALSE,
+Dode,Criss,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Monte,Cross,,Indianapolis,FALSE,FALSE,FALSE,
+Bill,Dahlen,Boston,Boston Nat'l.,FALSE,TRUE,FALSE,
+Bill,Dahlen,Brooklyn,Brooklyn,FALSE,TRUE,FALSE,
+Paul,Davidson,,Indianapolis,FALSE,TRUE,FALSE,
+Harry,Davis,H. Davis on Front,Phila. Amer.,FALSE,FALSE,FALSE,
+Harry,Davis,Davis on Front,Phila. Amer.,FALSE,FALSE,FALSE,
+George,Davis,,Chicago Amer.,TRUE,FALSE,FALSE,
+Frank,Delehanty,,Louisville,FALSE,TRUE,FALSE,
+Jim,Delehanty,,Washington,FALSE,FALSE,FALSE,
+Ray,Demmitt,New York,N. Y. Amer.,FALSE,FALSE,FALSE,
+Ray,Demmitt,St. Louis,St. Louis Amer.,FALSE,FALSE,FALSE,
+Rube,Dessau,,Baltimore,FALSE,TRUE,FALSE,
+Art,Devlin,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Josh,Devore,,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Bill,Dineen,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Mike,Donlin,Fielding,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Mike,Donlin,Seated,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Mike,Donlin,With Bat,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Jiggs,Donohue,,Chicago Amer.,FALSE,FALSE,FALSE,
+Wild Bill,Donovan,Portrait,Detroit,FALSE,TRUE,FALSE,
+Wild Bill,Donovan,Throwing,Detroit,FALSE,FALSE,FALSE,
+Red,Dooin,,Phila. Nat'l,FALSE,FALSE,FALSE,
+Mickey,Doolan,Batting,Phila. Nat'l,FALSE,FALSE,FALSE,
+Mickey,Doolan,Fielding,Phila. Nat'l,FALSE,FALSE,FALSE,
+Mickey,Doolin,,Phila. Nat'l,FALSE,TRUE,FALSE,
+Gus,Dorner,,Kansas City,FALSE,TRUE,FALSE,
+Patsy,Dougherty,Portrait,Chicago Amer.,FALSE,TRUE,FALSE,
+Patsy,Dougherty,Arm In Air,Chicago Amer.,FALSE,FALSE,FALSE,
+Tom,Downey,Fielding,Cincinnati,FALSE,FALSE,FALSE,
+Tom,Downey,Batting,Cincinnati,FALSE,FALSE,FALSE,
+Jerry,Downs,,Minneapolis,FALSE,TRUE,FALSE,
+Larry,Doyle,Portrait,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Joe,Doyle,N.Y. Nat'l,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Joe,Doyle,N.Y.,N. Y.,FALSE,FALSE,FALSE,
+Larry,Doyle,Throwing,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Larry,Doyle,With Bat,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Jean,Dubuc,,Cincinnati,FALSE,FALSE,FALSE,
+Hugh,Duffy,,Chicago Amer.,TRUE,FALSE,FALSE,
+Jack,Dunn,,Baltimore,FALSE,FALSE,FALSE,
+Joe,Dunn,,Brooklyn,FALSE,FALSE,FALSE,
+Bull,Durham,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Jimmy,Dygert,,Phila. Amer.,FALSE,TRUE,FALSE,
+Ted,Easterly,,Cleveland,FALSE,TRUE,FALSE,
+Dick,Egan,,Cincinnati,FALSE,TRUE,FALSE,
+Kid,Elberfeld,"New York, Portrait",N. Y. Amer.,FALSE,TRUE,FALSE,
+Kid,Elberfeld,"Washington, Portrait",Washington,FALSE,TRUE,FALSE,
+Kid,Elberfeld,Fielding,Washington,FALSE,FALSE,FALSE,
+Roy,Ellam,,Nashville,FALSE,FALSE,FALSE,
+Clyde,Engle,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Steve,Evans,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Johnny,Evers,Portrait,Chicago Nat'l.,TRUE,TRUE,FALSE,
+Johnny,Evers,"With Bat, Cubs On Shirt",Chicago Nat'l.,TRUE,FALSE,FALSE,
+Johnny,Evers,"With Bat, Chicago On Shirt",Chicago Nat'l.,TRUE,FALSE,FALSE,
+Bob,Ewing,,Cincinnati,FALSE,FALSE,FALSE,
+Cecil,Ferguson,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Hobe,Ferris,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Lou,Fiene,Portrait,Chicago Amer.,FALSE,TRUE,FALSE,
+Lou,Fiene,Throwing,Chicago Amer.,FALSE,FALSE,FALSE,
+Steamer,Flanagan,,Buffalo,FALSE,TRUE,FALSE,
+Art,Fletcher,,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Elmer,Flick,,Cleveland,TRUE,FALSE,FALSE,
+Russ,Ford,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Ed,Foster,,Charleston,FALSE,TRUE,FALSE,
+Jerry,Freeman,,Toledo,FALSE,FALSE,FALSE,
+John,Frill,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Charlie,Fritz,,New Orleans,FALSE,FALSE,FALSE,
+Art,Fromme,,Cincinnati,FALSE,FALSE,FALSE,
+Chick,Gandil,,Chicago Amer.,FALSE,FALSE,FALSE,
+Bob,Ganley,,Washington,FALSE,FALSE,FALSE,
+John,Ganzel,,Rochester,FALSE,FALSE,FALSE,
+Harry,Gasper,,Cincinnati,FALSE,FALSE,FALSE,
+Rube,Geyer,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+George,Gibson,,Pittsburgh,FALSE,TRUE,FALSE,
+Billy,Gilbert,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Wilbur,Goode,,Cleveland,FALSE,FALSE,FALSE,
+Bill,Graham,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Peaches,Graham,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Dolly,Gray,,Washington,FALSE,FALSE,FALSE,
+Ed,Greminger,,Montgomery,FALSE,TRUE,FALSE,
+Clark,Griffith,Portrait,Cincinnati,TRUE,TRUE,FALSE,
+Clark,Griffith,Batting,Cincinnati,TRUE,FALSE,FALSE,
+Moose,Grimshaw,,Toronto,FALSE,TRUE,FALSE,
+Bob,Groom,,Washington,FALSE,FALSE,FALSE,
+Tom,Guiheen,,Portsmouth,FALSE,TRUE,FALSE,
+Ed,Hahn,,Chicago Amer.,FALSE,FALSE,FALSE,
+Bob,Hall,,Baltimore,FALSE,TRUE,FALSE,
+Bill,Hallman,,Kansas City,FALSE,TRUE,FALSE,
+Jack,Hannifan,,Jersey City,FALSE,FALSE,FALSE,
+Bill,Hart,,Little Rock,FALSE,TRUE,FALSE,
+Jimmy,Hart,,Montgomery,FALSE,FALSE,FALSE,
+Topsy,Hartsel,,Phila. Amer.,FALSE,FALSE,FALSE,
+Jack,Hayden,,Indianapolis,FALSE,FALSE,FALSE,
+J. Ross,Helm,,Columbus,FALSE,TRUE,FALSE,
+Charlie,Hemphill,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Buck,Herzog,New York,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Buck,Herzog,Boston,Boston Nat'l.,FALSE,FALSE,FALSE,
+Gordon,Hickman,,Mobile,FALSE,TRUE,FALSE,
+Harry,Hinchman,,Toledo,FALSE,TRUE,FALSE,
+Bill,Hinchman,,Cleveland,FALSE,FALSE,FALSE,
+Dick,Hoblitzell,,Cincinnati,FALSE,FALSE,FALSE,
+Izzy,Hoffman,,Providence,FALSE,TRUE,FALSE,
+Danny,Hoffman,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Solly,Hofman,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Bock,Hooker,,Lynchburg,FALSE,TRUE,FALSE,
+Del,Howard,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Ernie,Howard,,Savannah,FALSE,FALSE,FALSE,
+Harry,Howell,Portrait,St. Louis Amer.,FALSE,TRUE,FALSE,
+Harry,Howell,Hand At Waist,St. Louis Amer.,FALSE,FALSE,FALSE,
+Miller,Huggins,Portrait,Cincinnati,TRUE,TRUE,FALSE,
+Miller,Huggins,Hands At Mouth,Cincinnati,TRUE,FALSE,FALSE,
+Rudy,Hulswitt,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+John,Hummel,,Brooklyn,FALSE,FALSE,FALSE,
+George,Hunter,,Brooklyn,FALSE,FALSE,FALSE,
+Frank,Isbell,,Chicago Amer.,FALSE,FALSE,FALSE,
+Fred,Jacklitsch,,Phila. Nat'l.,FALSE,FALSE,FALSE,
+Jimmy,Jackson,,Baltimore,FALSE,TRUE,FALSE,
+Hughie,Jennings,Portrait,Detroit,TRUE,TRUE,FALSE,
+Hughie,Jennings,One Hand Showing,Detroit,TRUE,FALSE,FALSE,
+Hughie,Jennings,Both Hands Showing,Detroit,TRUE,FALSE,FALSE,
+Walter,Johnson,Portrait,Washington,TRUE,TRUE,FALSE,
+Walter,Johnson,Hands At Chest,Washington,TRUE,FALSE,FALSE,
+Fielder,Jones,Portrait,Chicago Amer.,FALSE,TRUE,FALSE,
+Davy,Jones,,Detroit,FALSE,FALSE,FALSE,
+Fielder,Jones,Hands on Hips,Chicago Amer.,FALSE,FALSE,FALSE,
+Tom,Jones,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Tim,Jordan,Portrait,Brooklyn,FALSE,TRUE,FALSE,
+Dutch,Jordan,,Atlanta,FALSE,FALSE,FALSE,
+Tim,Jordan,Batting,Brooklyn,FALSE,FALSE,FALSE,
+Addie,Joss,Portrait,Cleveland,TRUE,TRUE,FALSE,
+Addie,Joss,Pitching,Cleveland,TRUE,FALSE,FALSE,
+Ed,Karger,,Cincinnati,FALSE,FALSE,FALSE,
+Willie,Keeler,Portrait,N. Y. Amer.,TRUE,TRUE,FALSE,
+Willie,Keeler,With Bat,N. Y. Amer.,TRUE,FALSE,FALSE,
+Joe,Kelley,,Toronto,TRUE,FALSE,FALSE,
+J.F.,Kiernan,,Columbia,FALSE,TRUE,FALSE,
+Ed,Killian,Portrait,Detroit,FALSE,TRUE,FALSE,
+Ed,Killian,Pitching,Detroit,FALSE,FALSE,FALSE,
+Frank,King,,Danville,FALSE,TRUE,FALSE,
+Rube,Kisinger,,Buffalo,FALSE,FALSE,FALSE,
+Red,Kleinow,With Bat,N. Y. Amer.,FALSE,FALSE,FALSE,
+Red,Kleinow,"New York, Catching",N. Y. Amer.,FALSE,FALSE,FALSE,
+Red,Kleinow,Boston,Boston,FALSE,FALSE,FALSE,
+Johnny,Kling,,Chicago Nat'l.,FALSE,TRUE,FALSE,
+Otto,Knabe,,Phila. Nat'l.,FALSE,FALSE,FALSE,
+Jack,Knight,Portrait,N. Y. Amer.,FALSE,TRUE,FALSE,
+Jack,Knight,With Bat,N. Y. Amer.,FALSE,FALSE,FALSE,
+Ed,Konetchy,Glove Above Head,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Ed,Konetchy,Glove Near Ground,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Harry,Krause,Portrait,Phila. Amer.,FALSE,TRUE,FALSE,
+Harry,Krause,Pitching,Phila. Amer.,FALSE,FALSE,FALSE,
+Rube,Kroh,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Otto,Kruger,,Columbus,FALSE,TRUE,FALSE,
+James,LaFitte,,Macon,FALSE,FALSE,FALSE,
+Nap,Lajoie,Portrait,Cleveland,TRUE,TRUE,FALSE,
+Nap,Lajoie,Throwing,Cleveland,TRUE,FALSE,FALSE,
+Nap,Lajoie,With Bat,Cleveland,TRUE,FALSE,FALSE,
+Joe,Lake,New York,N. Y. Amer.,FALSE,FALSE,FALSE,
+Joe,Lake,"St. Louis, No Ball",St. Louis Amer.,FALSE,FALSE,FALSE,
+Joe,Lake,Ball in Hand,St. Louis Amer.,FALSE,FALSE,FALSE,
+Frank,LaPorte,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Arlie,Latham,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Bill,Lattimore,,Toledo,FALSE,FALSE,FALSE,
+Jimmy,Lavender,,Providence,FALSE,FALSE,FALSE,
+Tommy,Leach,Portrait,Pittsburgh,FALSE,TRUE,FALSE,
+Tommy,Leach,Bending Over,Pittsburgh,FALSE,FALSE,FALSE,
+Lefty,Leifield,Pitching,Pittsburgh,FALSE,FALSE,FALSE,
+Lefty,Leifield,Batting,Pittsburgh,FALSE,FALSE,FALSE,
+Ed,Lennox,,Brooklyn,FALSE,FALSE,FALSE,
+Harry,Lentz,,Little Rock,FALSE,TRUE,FALSE,
+Glenn,Liebhardt,,Cleveland,FALSE,FALSE,FALSE,
+Vive,Lindaman,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Perry,Lipe,,Richmond,FALSE,TRUE,FALSE,
+Paddy,Livingstone,,Phila. Amer.,FALSE,FALSE,FALSE,
+Hans,Lobert,,Cincinnati,FALSE,TRUE,FALSE,
+Harry,Lord,,Boston Amer.,FALSE,FALSE,FALSE,
+Harry,Lumley,,Brooklyn,FALSE,TRUE,FALSE,
+Carl,Lundgren,Chicago,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Carl,Lundgren,Kansas City,Kansas City,FALSE,FALSE,FALSE,
+Nick,Maddox,,Pittsburgh,FALSE,FALSE,FALSE,
+Sherry,Magee,Portrait,Phila. Nat'l.,FALSE,TRUE,FALSE,
+Sherry,Magee,With Bat,Phila. Nat'l.,FALSE,FALSE,FALSE,
+Sherry,Magie,Magee,Phila. Nat'l.,FALSE,TRUE,FALSE,
+Bill,Malarkey,,Buffalo,FALSE,TRUE,FALSE,
+Billy,Maloney,,Rochester,FALSE,FALSE,FALSE,
+George,Manion,,Columbia,FALSE,TRUE,FALSE,
+Rube,Manning,Batting,N. Y. Amer.,FALSE,FALSE,FALSE,
+Rube,Manning,Pitching,N. Y. Amer.,FALSE,FALSE,FALSE,
+Rube,Marquard,Portrait,N. Y. Nat'l.,TRUE,TRUE,FALSE,
+Rube,Marquard,Hands At Thighs,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+Rube,Marquard,Follow Through,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+Doc,Marshall,,Brooklyn,FALSE,FALSE,FALSE,
+Christy,Mathewson,Portrait,N. Y. Nat'l.,TRUE,TRUE,FALSE,
+Christy,Mathewson,White Cap,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+Christy,Mathewson,Dark Cap,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+Al,Mattern,,Boston Nat'l.,FALSE,TRUE,FALSE,
+John,McAleese,,St. Louis Amer.,FALSE,FALSE,FALSE,
+George,McBride,,Washington,FALSE,FALSE,FALSE,
+Pat,McCauley,,Portsmouth,FALSE,TRUE,FALSE,
+Moose,McCormick,,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Pryor,McElveen,,Brooklyn,FALSE,FALSE,FALSE,
+Dan,McgGann,,Milwaukee,FALSE,TRUE,FALSE,
+Jim,McGinley,,Toronto,FALSE,TRUE,FALSE,
+Joe,McGinnity,,Newark,TRUE,FALSE,FALSE,
+Stoney,McGlynn,,Milwaukee,FALSE,TRUE,FALSE,
+John,McGraw,"Portrait, No Cap",N. Y. Nat'l.,TRUE,TRUE,FALSE,
+John,McGraw,"Portrait, With Cap",N. Y. Nat'l.,TRUE,TRUE,FALSE,
+John,McGraw,Finger In Air,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+John,McGraw,Glove At Hip,N. Y. Nat'l.,TRUE,FALSE,FALSE,
+Matty,McIntyre,Detroit,Detroit,FALSE,TRUE,FALSE,
+Harry,McIntyre,Brooklyn,Brooklyn,FALSE,FALSE,FALSE,
+Harry,McIntyre,Brooklyn & Chicago,Brklyn & Chic,FALSE,FALSE,FALSE,
+Larry,McLean,,Cincinnati,FALSE,FALSE,FALSE,
+George,McQuillan,Ball In Hand,Phila. Nat'l.,FALSE,FALSE,FALSE,
+George,McQuillan,With Bat,Phila. Nat'l.,FALSE,FALSE,FALSE,
+Fred,Merkle,Portrait,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Fred,Merkle,Throwing,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+George,Merritt,,Jersey City,FALSE,TRUE,FALSE,
+Chief,Meyers,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Clyde,Milan,,Washington,FALSE,FALSE,FALSE,
+Dots,Miller,,Pittsburgh,FALSE,FALSE,FALSE,
+Molly,Miller,,Dallas,FALSE,FALSE,FALSE,
+Bill,Milligan,,Jersey City,FALSE,TRUE,FALSE,
+Fred,Mitchell,,Toronto,FALSE,TRUE,FALSE,
+Mike,Mitchell,,Cincinnati,FALSE,FALSE,FALSE,
+Dan,Moeller,,Jersey City,FALSE,TRUE,FALSE,
+Carlton,Molesworth,,Birmingham,FALSE,FALSE,FALSE,
+Herbie,Moran,,Providence,FALSE,TRUE,FALSE,
+Pat,Moran,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+George,Moriarty,,Detroit,FALSE,FALSE,FALSE,
+Mike,Mowrey,,Cincinnati,FALSE,FALSE,FALSE,
+Dom,Mullaney,,Jacksonville,FALSE,FALSE,FALSE,
+George,Mullen,,Detroit,FALSE,TRUE,FALSE,
+George,Mullin,With Bat,Detroit,FALSE,FALSE,FALSE,
+George,Mullin,Throwing,Detroit,FALSE,FALSE,TRUE,
+Danny,Murphy,Batting,Phila. Amer.,FALSE,FALSE,FALSE,
+Danny,Murphy,Throwing,Phila. Amer.,FALSE,FALSE,TRUE,
+Red,Murray,Portrait,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Red,Murray,Batting,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Chief,Myers,Batting,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Chief,Myers,Fielding,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Billy,Nattress,,Buffalo,FALSE,TRUE,FALSE,
+Tom,Needham,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Simon,Nicholls,Hands On Knees,Phila. Amer.,FALSE,FALSE,FALSE,
+Simon,Nichols,Batting,Phila. Amer.,FALSE,FALSE,FALSE,
+Harry,Niles,,Boston Amer.,FALSE,FALSE,FALSE,
+Peter,O'Brien,,St. Paul,FALSE,FALSE,FALSE,
+Bill,O'Hara,New York,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Bill,O'Hara,St. Louis,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Charley,O'Leary,Portrait,Detroit,FALSE,TRUE,FALSE,
+Charley,O'Leary,Hands On Knees,Detroit,FALSE,FALSE,FALSE,
+William J.,O'Neil,,Minneapolis,FALSE,TRUE,FALSE,
+Rebel,Oakes,,Cincinnati,FALSE,FALSE,FALSE,
+Frank,Oberlin,,Minneapolis,FALSE,FALSE,FALSE,
+Rube,Oldring,Fielding,Phila. Amer.,FALSE,FALSE,FALSE,
+Rube,Oldring,Batting,Phila. Amer.,FALSE,FALSE,FALSE,
+Al,Orth,,Lynchburg,FALSE,FALSE,FALSE,
+William,Otey,,Norfolk,FALSE,TRUE,FALSE,
+Orval,Overall,Portrait,Chicago Nat'l.,FALSE,TRUE,FALSE,
+Orval,Overall,Hand Face Level,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Orval,Overall,Hands Waist Level,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Frank,Owen,,Chicago Amer.,FALSE,FALSE,FALSE,
+George,Paige,,Charleston,FALSE,TRUE,FALSE,
+Fred,Parent,,Chicago Amer.,FALSE,TRUE,FALSE,
+Dode,Paskert,,Cincinnati,FALSE,FALSE,FALSE,
+Jim,Pastorius,,Brooklyn,FALSE,FALSE,FALSE,
+Harry,Pattee,,Brooklyn,FALSE,FALSE,TRUE,
+Fred,Payne,,Chicago Amer.,FALSE,FALSE,FALSE,
+Barney,Pelty,Vertical,St. Louis Amer.,FALSE,FALSE,FALSE,
+Barney,Pelty,Horizontal,St. Louis Amer.,FALSE,FALSE,TRUE,
+Hub,Perdue,,Nashville,FALSE,FALSE,FALSE,
+George,Perring,,Cleveland,FALSE,TRUE,FALSE,
+Arch,Persons,,Montgomery,FALSE,FALSE,FALSE,
+Francis,Pfeffer,,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jake,Pfeister,Seated,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jake,Pfeister,Throwing,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jimmy,Phelan,,Providence,FALSE,TRUE,FALSE,
+Eddie,Phelps,,St. Louis Nat'l.,FALSE,FALSE,FALSE,
+Deacon,Phillippe,,Pittsburgh,FALSE,FALSE,FALSE,
+Ollie,Pickering,,Minneapolis,FALSE,TRUE,FALSE,
+Eddie,Plank,,Phila. Amer.,TRUE,TRUE,FALSE,
+Phil,Poland,,Baltimore,FALSE,TRUE,FALSE,
+Jack,Powell,,St. Louis Amer.,FALSE,FALSE,TRUE,
+Mike,Powers,,Phila. Amer.,FALSE,FALSE,FALSE,
+Billy,Purtell,,Chicago Amer.,FALSE,FALSE,FALSE,
+Ambrose,Puttman,,Louisville,FALSE,FALSE,FALSE,
+Lee,Quillen,,Minneapolis,FALSE,TRUE,FALSE,
+Jack,Quinn,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Newt,Randall,,Milwaukee,FALSE,TRUE,FALSE,
+Bugs,Raymond,,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Ed,Reagan,,New Orleans,FALSE,FALSE,FALSE,
+Ed,Reulbach,Glove Showing,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Ed,Reulbach,No Glove Showing,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Dutch,Revelle,,Richmond,FALSE,TRUE,FALSE,
+Bob,Rhoades,Hands At Chest,Cleveland,FALSE,FALSE,FALSE,
+Bob,Rhoades,Right Arm Extended,Cleveland,FALSE,FALSE,FALSE,
+Charlie,Rhodes,,St. Louis Nat'l.,FALSE,TRUE,FALSE,
+Claude,Ritchey,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Lou,Ritter,,Kansas City,FALSE,FALSE,FALSE,
+Ike,Rockenfeld,,Montgomery,FALSE,FALSE,FALSE,
+Claude,Rossman,,Detroit,FALSE,TRUE,FALSE,
+Nap,Rucker,Portrait,Brooklyn,FALSE,TRUE,FALSE,
+Nap,Rucker,Throwing,Brooklyn,FALSE,FALSE,FALSE,
+Dick,Rudolph,,Toronto,FALSE,TRUE,FALSE,
+Ray,Ryan,,Roanoke,FALSE,TRUE,FALSE,
+Germany,Schaefer,Detroit,Detroit,FALSE,FALSE,FALSE,
+Germany,Schaefer,Washington,Washington,FALSE,FALSE,FALSE,
+George,Schirm,,Buffalo,FALSE,FALSE,FALSE,
+Larry,Schlafly,,Newark,FALSE,TRUE,FALSE,
+Admiral,Schlei,Portrait,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Admiral,Schlei,Catching,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Admiral,Schlei,Batting,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Boss,Schmidt,Portrait,Detroit,FALSE,TRUE,FALSE,
+Boss,Schmidt,Throwing,Detroit,FALSE,FALSE,FALSE,
+Ossee,Schreck,,Columbus,FALSE,TRUE,FALSE,
+Wildfire,Schulte,Front View,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Wildfire,Schulte,Back View,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jim,Scott,,Chicago Amer.,FALSE,FALSE,FALSE,
+Charles,Seitz,,Norfolk,FALSE,TRUE,FALSE,
+Cy,Seymour,Portrait,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Cy,Seymour,Batting,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Cy,Seymour,Throwing,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Spike,Shannon,,Kansas City,FALSE,FALSE,FALSE,
+Bud,Sharpe,,Newark,FALSE,TRUE,FALSE,
+Shag,Shaughnessy,,Roanoke,FALSE,TRUE,FALSE,
+Al,Shaw,,St. Louis Nat'l.,FALSE,TRUE,FALSE,
+Hunky,Shaw,,Providence,FALSE,FALSE,FALSE,
+Jimmy,Sheckard,No Glove Showing,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jimmy,Sheckard,Glove Showing,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Bill,Shipke,,Washington,FALSE,FALSE,FALSE,
+Jimmy,Slagle,,Baltimore,FALSE,FALSE,FALSE,
+Carlos,Smith,,Shreveport,FALSE,TRUE,FALSE,
+Frank,Smith,F. Smith on Front,Chicago Amer.,FALSE,FALSE,FALSE,
+Frank,Smith,White Cap,Chicago Amer.,FALSE,FALSE,FALSE,
+Frank,Smith,Chicago & Boston,Chic & Bost Am.,FALSE,FALSE,FALSE,
+Happy,Smith,,Brooklyn,FALSE,FALSE,FALSE,
+Heinie,Smith,,Buffalo,FALSE,FALSE,FALSE,
+Sid,Smith,,Atlanta,FALSE,FALSE,FALSE,
+Fred,Snodgrass,Batting,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Fred,Snodgrass,Catching,N. Y. Nat'l,FALSE,FALSE,FALSE,
+Bob,Spade,,Cincinnati,FALSE,TRUE,FALSE,
+Tris,Speaker,,Boston Amer.,TRUE,FALSE,FALSE,
+Tubby,Spencer,,Boston Amer.,FALSE,FALSE,FALSE,
+Jake,Stahl,No Glove Shows,Boston Amer.,FALSE,FALSE,FALSE,
+Jake,Stahl,Glove Shows,Boston Amer.,FALSE,FALSE,FALSE,
+Oscar,Stanage,,Detroit,FALSE,FALSE,FALSE,
+Dolly,Stark,,San Antonio,FALSE,FALSE,FALSE,
+Charlie,Starr,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Harry,Steinfeldt,Portrait,Chicago Nat'l.,FALSE,TRUE,FALSE,
+Harry,Steinfeldt,With Bat,Chicago Nat'l.,FALSE,FALSE,FALSE,
+Jim,Stephens,,St. Louis Amer.,FALSE,FALSE,FALSE,
+George,Stone,,St. Louis Amer.,FALSE,TRUE,FALSE,
+George,Stovall,Portrait,Cleveland,FALSE,TRUE,FALSE,
+George,Stovall,Batting,Cleveland,FALSE,FALSE,FALSE,
+Sam,Strang,,Baltimore,FALSE,FALSE,FALSE,
+Gabby,Street,Portrait,Washington,FALSE,TRUE,FALSE,
+Gabby,Street,Catching,Washington,FALSE,FALSE,FALSE,
+Billy,Sullivan,,Chicago Amer.,FALSE,TRUE,FALSE,
+Ed,Summers,,Detroit,FALSE,FALSE,FALSE,
+Bill,Sweeney,,Boston Nat'l.,FALSE,FALSE,FALSE,
+Jeff,Sweeney,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Jesse,Tannehill,,Washington,FALSE,FALSE,FALSE,
+Lee,Tannehill,L. Tannehill on Front,Chicago Amer.,FALSE,FALSE,FALSE,
+Lee,Tannehill,Tannehill on Front,Chicago Amer.,FALSE,FALSE,FALSE,
+Dummy,Taylor,,Buffalo,FALSE,FALSE,FALSE,
+Fred,Tenney,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Tony,Thebo,,Waco,FALSE,FALSE,FALSE,
+Jake,Thielman,,Louisville,FALSE,TRUE,FALSE,
+Ira,Thomas,,Phila. Amer.,FALSE,FALSE,FALSE,
+Woodie,Thornton,,Mobile,FALSE,FALSE,FALSE,
+Joe,Tinker,Portrait,Chicago Nat'l.,TRUE,TRUE,FALSE,
+Joe,Tinker,Hands On Knees,Chicago Nat'l.,TRUE,FALSE,FALSE,
+Joe,Tinker,Bat Off Shoulder,Chicago Nat'l.,TRUE,FALSE,FALSE,
+Joe,Tinker,Bat On Shoulder,Chicago Nat'l.,TRUE,FALSE,FALSE,
+John,Titus,,Phila. Nat'l.,FALSE,TRUE,FALSE,
+Terry,Turner,,Cleveland,FALSE,TRUE,FALSE,
+Bob,Unglaub,,Washington,FALSE,TRUE,FALSE,
+Juan,Violat,,Jacksonville,FALSE,FALSE,FALSE,
+Rube,Waddell,Portrait,St. Louis Amer.,TRUE,TRUE,FALSE,
+Rube,Waddell,Throwing,St. Louis Amer.,TRUE,FALSE,FALSE,
+Heinie,Wagner,Bat On Left Shoulder,Boston Amer.,FALSE,FALSE,FALSE,
+Heinie,Wagner,Bat On Right Shoulder,Boston Amer.,FALSE,FALSE,FALSE,
+Honus,Wagner,,Pittsburgh,TRUE,TRUE,FALSE,
+Bobby,Wallace,,St. Louis Amer.,TRUE,TRUE,FALSE,
+Ed,Walsh,,Chicago Amer.,TRUE,TRUE,FALSE,
+Jack,Warhop,,N. Y. Amer.,FALSE,FALSE,FALSE,
+Jake,Weimer,,N. Y. Nat'l.,FALSE,TRUE,FALSE,
+James,Westlake,,Danville,FALSE,TRUE,FALSE,
+Zack,Wheat,,Brooklyn,TRUE,FALSE,FALSE,
+Doc,White,Portrait,Chicago Amer.,FALSE,TRUE,FALSE,
+Doc,White,Pitching,Chicago Amer.,FALSE,FALSE,FALSE,
+Foley,White,,Houston,FALSE,FALSE,FALSE,
+Jack,White,,Buffalo,FALSE,FALSE,FALSE,
+Kaiser,Wilhelm,Hands At Chest,Brooklyn,FALSE,FALSE,FALSE,
+Kaiser,Wilhelm,With Bat,Brooklyn,FALSE,FALSE,FALSE,
+Ed,Willett,,Detroit,FALSE,FALSE,FALSE,
+Ed,Willetts,,Detroit,FALSE,FALSE,FALSE,
+Jimmy,Williams,,St. Louis Amer.,FALSE,FALSE,FALSE,
+Vic,Willis,Portrait,Pittsburgh,TRUE,TRUE,FALSE,
+Vic,Willis,With Bat,St. Louis Nat'l.,TRUE,FALSE,FALSE,
+Vic,Willis,Throwing,St. Louis Nat'l.,TRUE,FALSE,FALSE,
+Owen,Wilson,,Pittsburgh,FALSE,FALSE,FALSE,
+Hooks,Wiltse,"Portrait, No Cap",N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Hooks,Wiltse,"Portrait, With Cap",N. Y. Nat'l.,FALSE,TRUE,FALSE,
+Hooks,Wiltse,Pitching,N. Y. Nat'l.,FALSE,FALSE,FALSE,
+Lucky,Wright,,Toledo,FALSE,TRUE,FALSE,
+Irv,Young,,Minneapolis,FALSE,FALSE,FALSE,
+Cy,Young,Portrait,Cleveland,TRUE,TRUE,FALSE,
+Cy,Young,Bare Hand Shows,Cleveland,TRUE,FALSE,FALSE,
+Cy,Young,Glove Shows,Cleveland,TRUE,FALSE,FALSE,
+Heinie,Zimmerman,,Chicago Nat'l.,FALSE,FALSE,FALSE,
