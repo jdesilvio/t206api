@@ -2,7 +2,7 @@
 
 import csv
 
-from t206api.models import Card, Factory, Series, Team
+from t206api.models import Card, Factory, Series, Team, Variation
 from t206api.models.team import teams
 
 from t206api.app import create_app
@@ -63,6 +63,25 @@ def upload_card_teams(filepath):
                     card_id=card.id, team_id=team.id))
 
 
+def upload_variations(filepath):
+    with open(filepath) as f:
+        reader = csv.DictReader(f)
+        for item in reader:
+            card = Card.query.filter_by(
+                first_name=item['first_name'],
+                last_name=item['last_name'],
+                pose=item['pose'] if item['pose'] else None
+            ).one()
+
+            variation = Variation(
+                card_id=card.id,
+                description=item['description'])
+
+            db.session.add(variation)
+            db.session.commit()
+            print(variation.id, variation)
+
+
 if __name__ == '__main__':
     app = create_app()
 
@@ -71,3 +90,4 @@ if __name__ == '__main__':
     upload_data('./data/team.csv', Team)
     upload_cards('./data/card.csv')
     upload_card_teams('./data/card_teams.csv')
+    upload_variations('./data/variation.csv')

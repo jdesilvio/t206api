@@ -50,10 +50,10 @@ class Card(db.Model):
     # as the pose. Others may have the team as the pose.
     pose = db.Column(db.String(64), nullable=True)
 
-    # A commonly recognized variation of the card, but
+    # Commonly recognized variations of the card, but
     # not a unique design. These are mostly printing
     # errors that resulted in noticeable variations.
-    #variation = db.Column(db.String(256), nullable=True)
+    variations = db.relationship('Variation', backref='card', lazy=True)
 
     # Team name as it appears on a nameplate (non-normalized)
     team_name = db.Column(db.String(64), nullable=False)
