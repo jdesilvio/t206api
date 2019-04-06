@@ -5,6 +5,7 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
+from sqlalchemy import UniqueConstraint
 from sqlalchemy.dialects.postgresql import ENUM
 
 from .series import serieses
@@ -31,6 +32,10 @@ class Back(db.Model):
 
     Unique card backs.
     """
+
+    __table_args__ = (UniqueConstraint(
+        'brand', 'variation', 'overprint', 'series_description'
+    ),)
 
     id = db.Column(db.Integer, primary_key=True)
 
@@ -74,6 +79,3 @@ class Back(db.Model):
         ]
         back = ', '.join([part for part in parts if part is not None])
         return back
-
-
-
