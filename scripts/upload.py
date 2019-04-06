@@ -2,7 +2,7 @@
 
 import csv
 
-from t206api.models import Card, Factory, Series, Team, Variation
+from t206api.models import Back, Card, Factory, Series, Team, Variation
 from t206api.models.team import teams
 
 from t206api.app import create_app
@@ -82,6 +82,40 @@ def upload_variations(filepath):
             print(variation.id, variation)
 
 
+def upload_backs(filepath):
+    bool_fields = ['overprint']
+    null_fields = ['variation']
+
+    with open(filepath) as f:
+        reader = csv.DictReader(f)
+        for item in reader:
+
+            for bool_field in bool_fields:
+                if item[bool_field] == 'TRUE':
+                    item[bool_field] = True
+                if item[bool_field] == 'FALSE':
+                    item[bool_field] = False
+
+            for null_field in null_fields:
+                if item[null_field] == '':
+                    item[null_field] = None
+
+            factory = Factory.query.filter_by(
+                number=item['factory_number']
+            ).one()
+
+            back = Back(
+                brand=item['brand'],
+                variation=item['variation'],
+                series_description=item['series_description'],
+                overprint=item['overprint'],
+                factory_id=factory.id)
+
+            db.session.add(back)
+            db.session.commit()
+            print(back.id, back)
+
+
 if __name__ == '__main__':
     app = create_app()
 
@@ -91,3 +125,4 @@ if __name__ == '__main__':
     upload_cards('./data/card.csv')
     upload_card_teams('./data/card_teams.csv')
     upload_variations('./data/variation.csv')
+    upload_backs('./data/back.csv')
