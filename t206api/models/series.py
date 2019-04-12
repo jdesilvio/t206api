@@ -25,3 +25,9 @@ class Series(db.Model):
 
     def __str__(self):  # pragma: no cover
         return '{}'.format(self.name)
+
+
+serieses = db.Table('serieses',
+    db.Column('series_id', db.Integer, db.ForeignKey('series.id'), primary_key=True),
+    db.Column('back_id', db.Integer, db.ForeignKey('back.id'), primary_key=True)
+)

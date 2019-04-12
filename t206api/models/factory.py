@@ -7,7 +7,6 @@ from __future__ import division
 from __future__ import print_function
 from __future__ import unicode_literals
 
-from sqlalchemy import UniqueConstraint
 from sqlalchemy.dialects.postgresql import ENUM
 
 from ..db import db
@@ -23,18 +22,19 @@ state_enum = ENUM(*state_types, name='state_type')
 class Factory(db.Model):
     """A factory that distributed cards."""
 
-    __table_args__ = (UniqueConstraint('number', 'district', 'state'),)
-
     id = db.Column(db.Integer, primary_key=True)
 
     # The factory number
-    number = db.Column(db.Integer, nullable=False)
+    number = db.Column(db.Integer, unique=True, nullable=False)
 
     # The factory district
     district = db.Column(db.String(64), nullable=False)
 
     # The state the factory is in
     state = db.Column(db.String(64), nullable=False)
+
+    # Backs that were produced in the factory
+    backs = db.relationship('Back', backref='factory', lazy=True)
 
     def __repr__(self):  # pragma: no cover
         return "<Factory [{}] 'No. {}, {}, {}'>".format(

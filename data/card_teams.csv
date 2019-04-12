@@ -1,0 +1,527 @@
+first_name,last_name,pose,city,league
+Ed,Abbaticchio,Brown Sleeves,Pittsburgh,National
+Ed,Abbaticchio,Blue Sleeves,Pittsburgh,National
+Fred,Abbott,,Toledo,Minor
+Bill,Abstein,,Pittsburgh,National
+Doc,Adkins,,Baltimore,Minor
+Whitey,Alperman,,Brooklyn,National
+Red,Ames,Portrait,New York,National
+Red,Ames,Hands At Chest,New York,National
+Red,Ames,Hands Over Head,New York,National
+John,Anderson,,Providence,Minor
+Frank,Arellanes,,Boston,American
+Herman,Armbruster,,St. Paul,Minor
+Harry,Arndt,,Providence,Minor
+Jake,Atz,,Chicago,American
+Home Run,Baker,,Philadelphia,American
+Neal,Ball,Cleveland,Cleveland,American
+Neal,Ball,New York,New York,American
+Jap,Barbeau,,St. Louis,National
+Cy,Barger,,Rochester,Minor
+Shad,Barry,,Milwaukee,Minor
+Jack,Barry,,Philadelphia,American
+Jack,Bastian,,San Antonio,Southern
+Emil,Batch,,Rochester,Minor
+Johnny,Bates,,Boston,National
+Harry,Bay,,Nashville,Southern
+Ginger,Beaumont,,Boston,National
+Fred,Beck,,Boston,National
+Beals,Becker,,Boston,National
+Jake,Beckley,,Kansas City,Minor
+George,Bell,Hands Above Head,Brooklyn,National
+George,Bell,Follow Through,Brooklyn,National
+Chief,Bender,Portrait,Philadelphia,American
+Chief,Bender,"Pitching, Trees In Back",Philadelphia,American
+Chief,Bender,"Pitching, No Trees",Philadelphia,American
+Bill,Bergen,Batting,Brooklyn,National
+Bill,Bergen,Catching,Brooklyn,National
+Heinie,Berger,,Cleveland,American
+Bill,Bernhard,,Nashville,Southern
+Bob,Bescher,Portrait,Cincinnati,National
+Bob,Bescher,Hands In Air,Cincinnati,National
+Joe,Birmingham,,Cleveland,American
+Lena,Blackburne,,Providence,Minor
+Jack,Bliss,,St. Louis,National
+Frank,Bowerman,,Boston,National
+Bill,Bradley,Portrait,Cleveland,American
+Bill,Bradley,With Bat,Cleveland,American
+Dave,Brain,,Buffalo,Minor
+Kitty,Bransfield,,Philadelphia,National
+Roy,Brashear,,Kansas City,Minor
+Ted,Breitenstein,,New Orleans,Southern
+Roger,Bresnahan,Portrait,St. Louis,National
+Roger,Bresnahan,With Bat,St. Louis,National
+Al,Bridwell,No Cap,New York,National
+Al,Bridwell,With Cap,New York,National
+Mordecai,Brown,Portrait,Chicago,National
+Mordecai,Brown,Cubs Shirt,Chicago,National
+Mordecai,Brown,Chicago Shirt,Chicago,National
+George,Brown,Chicago,Chicago,National
+George,Brown,Washington,Washington,American
+Al,Burch,Batting,Brooklyn,National
+Al,Burch,Fielding,Brooklyn,National
+Fred,Burchell,,Buffalo,Minor
+Jimmy,Burke,,Indianapolis,Minor
+Bill,Burns,,Chicago,American
+Donie,Bush,,Detroit,American
+John,Butler,,Rochester,Minor
+Bobby,Byrne,,St. Louis,National
+Howie,Camnitz,Arms Folded,Pittsburgh,National
+Howie,Camnitz,Arm At Side,Pittsburgh,National
+Howie,Camnitz,Hands Over Head,Pittsburgh,National
+Billy,Campbell,,Cincinnati,National
+Scoops,Carey,,Memphis,Southern
+Charley,Carr,,Indianapolis,Minor
+Bill,Carrigan,,Boston,American
+Doc,Casey,,Montreal,Minor
+Peter,Cassidy,,Baltimore,Minor
+Frank,Chance,Red Portrait,Chicago,National
+Frank,Chance,Yellow Portrait,Chicago,National
+Frank,Chance,Batting,Chicago,National
+Bill,Chappelle,,Rochester,Minor
+Chappie,Charles,,St. Louis,National
+Hal,Chase,Pink Portrait,New York,American
+Hal,Chase,Blue Portrait,New York,American
+Hal,Chase,Throwing White Cap,New York,American
+Hal,Chase,Throwing Dark Cap,New York,American
+Hal,Chase,Holding Trophy,New York,American
+Jack,Chesbro,,New York,American
+Ed,Cicotte,,Boston,American
+Bill,Clancy,,Buffalo,Minor
+Josh,Clark,,Columbus,Minor
+J.J.,Clarke,,Cleveland,American
+Fred,Clarke,Portrait,Pittsburgh,National
+Fred,Clarke,Holding Bat,Pittsburgh,National
+Bill,Clymer,,Columbus,Minor
+Ty,Cobb,Green Portrait,Detroit,American
+Ty,Cobb,Red Portrait,Detroit,American
+Ty,Cobb,Bat On Shoulder,Detroit,American
+Ty,Cobb,Bat Off Shoulder,Detroit,American
+Cad,Coles,,Augusta,Southern
+Jimmy,Collins,,Minneapolis,Minor
+Eddie,Collins,,Philadelphia,American
+Bunk,Congalton,,Columbus,Minor
+Wid,Conroy,Fielding,Washington,American
+Wid,Conroy,With Bat,Washington,American
+Harry,Covaleski,,Philadelphia,National
+Doc,Crandall,No Cap,New York,National
+Doc,Crandall,With Cap,New York,National
+Bill,Cranston,,Memphis,Southern
+Gavvy,Cravath,,Minneapolis,Minor
+Sam,Crawford,Throwing,Detroit,American
+Sam,Crawford,With Bat,Detroit,American
+Birdie,Cree,,New York,American
+Lou,Criger,,St. Louis,American
+Dode,Criss,,St. Louis,American
+Monte,Cross,,Indianapolis,Minor
+Bill,Dahlen,Boston,Boston,National
+Bill,Dahlen,Brooklyn,Brooklyn,National
+Paul,Davidson,,Indianapolis,Minor
+George,Davis,,Chicago,American
+Harry,Davis,H. Davis on Front,Philadelphia,American
+Harry,Davis,Davis on Front,Philadelphia,American
+Frank,Delehanty,,Louisville,Minor
+Jim,Delehanty,,Washington,American
+Ray,Demmitt,New York,New York,American
+Ray,Demmitt,St. Louis,St. Louis,American
+Rube,Dessau,,Baltimore,Minor
+Art,Devlin,,New York,National
+Josh,Devore,,New York,National
+Bill,Dineen,,St. Louis,American
+Mike,Donlin,Fielding,New York,National
+Mike,Donlin,Seated,New York,National
+Mike,Donlin,With Bat,New York,National
+Jiggs,Donohue,,Chicago,American
+Wild Bill,Donovan,Portrait,Detroit,American
+Wild Bill,Donovan,Throwing,Detroit,American
+Red,Dooin,,Philadelphia,National
+Mickey,Doolan,Batting,Philadelphia,National
+Mickey,Doolan,Fielding,Philadelphia,National
+Mickey,Doolin,,Philadelphia,National
+Gus,Dorner,,Kansas City,Minor
+Patsy,Dougherty,Portrait,Chicago,American
+Patsy,Dougherty,Arm In Air,Chicago,American
+Tom,Downey,Fielding,Cincinnati,National
+Tom,Downey,Batting,Cincinnati,National
+Jerry,Downs,,Minneapolis,Minor
+Joe,Doyle,N.Y.,New York,American
+Larry,Doyle,Portrait,New York,National
+Joe,Doyle,N.Y. Nat'l,New York,National
+Larry,Doyle,Throwing,New York,National
+Larry,Doyle,With Bat,New York,National
+Jean,Dubuc,,Cincinnati,National
+Hugh,Duffy,,Chicago,American
+Jack,Dunn,,Baltimore,Minor
+Joe,Dunn,,Brooklyn,National
+Bull,Durham,,New York,National
+Jimmy,Dygert,,Philadelphia,American
+Ted,Easterly,,Cleveland,American
+Dick,Egan,,Cincinnati,National
+Kid,Elberfeld,"New York, Portrait",New York,American
+Kid,Elberfeld,"Washington, Portrait",Washington,American
+Kid,Elberfeld,Fielding,Washington,American
+Roy,Ellam,,Nashville,Southern
+Clyde,Engle,,New York,American
+Steve,Evans,,St. Louis,National
+Johnny,Evers,Portrait,Chicago,National
+Johnny,Evers,"With Bat, Cubs On Shirt",Chicago,National
+Johnny,Evers,"With Bat, Chicago On Shirt",Chicago,National
+Bob,Ewing,,Cincinnati,National
+Cecil,Ferguson,,Boston,National
+Hobe,Ferris,,St. Louis,American
+Lou,Fiene,Portrait,Chicago,American
+Lou,Fiene,Throwing,Chicago,American
+Steamer,Flanagan,,Buffalo,Minor
+Art,Fletcher,,New York,National
+Elmer,Flick,,Cleveland,American
+Russ,Ford,,New York,American
+Ed,Foster,,Charleston,Southern
+Jerry,Freeman,,Toledo,Minor
+John,Frill,,New York,American
+Charlie,Fritz,,New Orleans,Southern
+Art,Fromme,,Cincinnati,National
+Chick,Gandil,,Chicago,American
+Bob,Ganley,,Washington,American
+John,Ganzel,,Rochester,Minor
+Harry,Gasper,,Cincinnati,National
+Rube,Geyer,,St. Louis,National
+George,Gibson,,Pittsburgh,National
+Billy,Gilbert,,St. Louis,National
+Wilbur,Goode,,Cleveland,American
+Peaches,Graham,,Boston,National
+Bill,Graham,,St. Louis,American
+Dolly,Gray,,Washington,American
+Ed,Greminger,,Montgomery,Southern
+Clark,Griffith,Portrait,Cincinnati,National
+Clark,Griffith,Batting,Cincinnati,National
+Moose,Grimshaw,,Toronto,Minor
+Bob,Groom,,Washington,American
+Tom,Guiheen,,Portsmouth,Southern
+Ed,Hahn,,Chicago,American
+Bob,Hall,,Baltimore,Minor
+Bill,Hallman,,Kansas City,Minor
+Jack,Hannifan,,Jersey City,Minor
+Bill,Hart,,Little Rock,Southern
+Jimmy,Hart,,Montgomery,Southern
+Topsy,Hartsel,,Philadelphia,American
+Jack,Hayden,,Indianapolis,Minor
+J. Ross,Helm,,Columbus,Southern
+Charlie,Hemphill,,New York,American
+Buck,Herzog,Boston,Boston,National
+Buck,Herzog,New York,New York,National
+Gordon,Hickman,,Mobile,Southern
+Bill,Hinchman,,Cleveland,American
+Harry,Hinchman,,Toledo,Minor
+Dick,Hoblitzell,,Cincinnati,National
+Izzy,Hoffman,,Providence,Minor
+Danny,Hoffman,,St. Louis,American
+Solly,Hofman,,Chicago,National
+Bock,Hooker,,Lynchburg,Southern
+Del,Howard,,Chicago,National
+Ernie,Howard,,Savannah,Southern
+Harry,Howell,Portrait,St. Louis,American
+Harry,Howell,Hand At Waist,St. Louis,American
+Miller,Huggins,Portrait,Cincinnati,National
+Miller,Huggins,Hands At Mouth,Cincinnati,National
+Rudy,Hulswitt,,St. Louis,National
+John,Hummel,,Brooklyn,National
+George,Hunter,,Brooklyn,National
+Frank,Isbell,,Chicago,American
+Fred,Jacklitsch,,Philadelphia,National
+Jimmy,Jackson,,Baltimore,Minor
+Hughie,Jennings,Portrait,Detroit,American
+Hughie,Jennings,One Hand Showing,Detroit,American
+Hughie,Jennings,Both Hands Showing,Detroit,American
+Walter,Johnson,Portrait,Washington,American
+Walter,Johnson,Hands At Chest,Washington,American
+Fielder,Jones,Portrait,Chicago,American
+Fielder,Jones,Hands on Hips,Chicago,American
+Davy,Jones,,Detroit,American
+Tom,Jones,,St. Louis,National
+Dutch,Jordan,,Atlanta,Southern
+Tim,Jordan,Portrait,Brooklyn,National
+Tim,Jordan,Batting,Brooklyn,National
+Addie,Joss,Portrait,Cleveland,American
+Addie,Joss,Pitching,Cleveland,American
+Ed,Karger,,Cincinnati,National
+Willie,Keeler,Portrait,New York,American
+Willie,Keeler,With Bat,New York,American
+Joe,Kelley,,Toronto,Minor
+J.F.,Kiernan,,Columbia,Southern
+Ed,Killian,Portrait,Detroit,American
+Ed,Killian,Pitching,Detroit,American
+Frank,King,,Danville,Southern
+Rube,Kisinger,,Buffalo,Minor
+Red,Kleinow,Boston,Boston,American
+Red,Kleinow,With Bat,New York,American
+Red,Kleinow,"New York, Catching",New York,American
+Johnny,Kling,,Chicago,National
+Otto,Knabe,,Philadelphia,National
+Jack,Knight,Portrait,New York,American
+Jack,Knight,With Bat,New York,American
+Ed,Konetchy,Glove Above Head,St. Louis,National
+Ed,Konetchy,Glove Near Ground,St. Louis,National
+Harry,Krause,Portrait,Philadelphia,American
+Harry,Krause,Pitching,Philadelphia,American
+Rube,Kroh,,Chicago,National
+Otto,Kruger,,Columbus,Minor
+James,LaFitte,,Macon,Southern
+Nap,Lajoie,Portrait,Cleveland,American
+Nap,Lajoie,Throwing,Cleveland,American
+Nap,Lajoie,With Bat,Cleveland,American
+Joe,Lake,New York,New York,American
+Joe,Lake,"St. Louis, No Ball",St. Louis,American
+Joe,Lake,Ball in Hand,St. Louis,American
+Frank,LaPorte,,New York,American
+Arlie,Latham,,New York,National
+Bill,Lattimore,,Toledo,Minor
+Jimmy,Lavender,,Providence,Minor
+Tommy,Leach,Portrait,Pittsburgh,National
+Tommy,Leach,Bending Over,Pittsburgh,National
+Lefty,Leifield,Pitching,Pittsburgh,National
+Lefty,Leifield,Batting,Pittsburgh,National
+Ed,Lennox,,Brooklyn,National
+Harry,Lentz,,Little Rock,Southern
+Glenn,Liebhardt,,Cleveland,American
+Vive,Lindaman,,Boston,National
+Perry,Lipe,,Richmond,Southern
+Paddy,Livingstone,,Philadelphia,American
+Hans,Lobert,,Cincinnati,National
+Harry,Lord,,Boston,American
+Harry,Lumley,,Brooklyn,National
+Carl,Lundgren,Chicago,Chicago,National
+Carl,Lundgren,Kansas City,Kansas City,Minor
+Nick,Maddox,,Pittsburgh,National
+Sherry,Magee,Portrait,Philadelphia,National
+Sherry,Magee,With Bat,Philadelphia,National
+Sherry,Magie,Magee,Philadelphia,National
+Bill,Malarkey,,Buffalo,Minor
+Billy,Maloney,,Rochester,Minor
+George,Manion,,Columbia,Southern
+Rube,Manning,Batting,New York,American
+Rube,Manning,Pitching,New York,American
+Rube,Marquard,Portrait,New York,National
+Rube,Marquard,Hands At Thighs,New York,National
+Rube,Marquard,Follow Through,New York,National
+Doc,Marshall,,Brooklyn,National
+Christy,Mathewson,Portrait,New York,National
+Christy,Mathewson,White Cap,New York,National
+Christy,Mathewson,Dark Cap,New York,National
+Al,Mattern,,Boston,National
+John,McAleese,,St. Louis,American
+George,McBride,,Washington,American
+Pat,McCauley,,Portsmouth,Southern
+Moose,McCormick,,New York,National
+Pryor,McElveen,,Brooklyn,National
+Dan,McgGann,,Milwaukee,Minor
+Jim,McGinley,,Toronto,Minor
+Joe,McGinnity,,Newark,Minor
+Stoney,McGlynn,,Milwaukee,Minor
+John,McGraw,"Portrait, No Cap",New York,National
+John,McGraw,"Portrait, With Cap",New York,National
+John,McGraw,Finger In Air,New York,National
+John,McGraw,Glove At Hip,New York,National
+Harry,McIntyre,Brooklyn & Chicago,Chicago,National
+Harry,McIntyre,Brooklyn & Chicago,Brooklyn,National
+Harry,McIntyre,Brooklyn,Brooklyn,National
+Matty,McIntyre,Detroit,Detroit,American
+Larry,McLean,,Cincinnati,National
+George,McQuillan,Ball In Hand,Philadelphia,National
+George,McQuillan,With Bat,Philadelphia,National
+Fred,Merkle,Portrait,New York,National
+Fred,Merkle,Throwing,New York,National
+George,Merritt,,Jersey City,Minor
+Chief,Meyers,,New York,National
+Clyde,Milan,,Washington,American
+Molly,Miller,,Dallas,Southern
+Dots,Miller,,Pittsburgh,National
+Bill,Milligan,,Jersey City,Minor
+Mike,Mitchell,,Cincinnati,National
+Fred,Mitchell,,Toronto,Minor
+Dan,Moeller,,Jersey City,Minor
+Carlton,Molesworth,,Birmingham,Southern
+Pat,Moran,,Chicago,National
+Herbie,Moran,,Providence,Minor
+George,Moriarty,,Detroit,American
+Mike,Mowrey,,Cincinnati,National
+Dom,Mullaney,,Jacksonville,Southern
+George,Mullen,,Detroit,American
+George,Mullin,Throwing,Detroit,American
+George,Mullin,With Bat,Detroit,American
+Danny,Murphy,Throwing,Philadelphia,American
+Danny,Murphy,Batting,Philadelphia,American
+Red,Murray,Portrait,New York,National
+Red,Murray,Batting,New York,National
+Chief,Myers,Batting,New York,National
+Chief,Myers,Fielding,New York,National
+Billy,Nattress,,Buffalo,Minor
+Tom,Needham,,Chicago,National
+Simon,Nicholls,Hands On Knees,Philadelphia,American
+Simon,Nichols,Batting,Philadelphia,American
+Harry,Niles,,Boston,American
+Peter,O'Brien,,St. Paul,Minor
+Bill,O'Hara,New York,New York,National
+Bill,O'Hara,St. Louis,St. Louis,National
+Charley,O'Leary,Portrait,Detroit,American
+Charley,O'Leary,Hands On Knees,Detroit,American
+William J.,O'Neil,,Minneapolis,Minor
+Rebel,Oakes,,Cincinnati,National
+Frank,Oberlin,,Minneapolis,Minor
+Rube,Oldring,Fielding,Philadelphia,American
+Rube,Oldring,Batting,Philadelphia,American
+Al,Orth,,Lynchburg,Southern
+William,Otey,,Norfolk,Southern
+Orval,Overall,Portrait,Chicago,National
+Orval,Overall,Hand Face Level,Chicago,National
+Orval,Overall,Hands Waist Level,Chicago,National
+Frank,Owen,,Chicago,American
+George,Paige,,Charleston,Southern
+Fred,Parent,,Chicago,American
+Dode,Paskert,,Cincinnati,National
+Jim,Pastorius,,Brooklyn,National
+Harry,Pattee,,Brooklyn,National
+Fred,Payne,,Chicago,American
+Barney,Pelty,Horizontal,St. Louis,American
+Barney,Pelty,Vertical,St. Louis,American
+Hub,Perdue,,Nashville,Southern
+George,Perring,,Cleveland,American
+Arch,Persons,,Montgomery,Southern
+Francis,Pfeffer,,Chicago,National
+Jake,Pfeister,Seated,Chicago,National
+Jake,Pfeister,Throwing,Chicago,National
+Jimmy,Phelan,,Providence,Minor
+Eddie,Phelps,,St. Louis,National
+Deacon,Phillippe,,Pittsburgh,National
+Ollie,Pickering,,Minneapolis,Minor
+Eddie,Plank,,Philadelphia,American
+Phil,Poland,,Baltimore,Minor
+Jack,Powell,,St. Louis,American
+Mike,Powers,,Philadelphia,American
+Billy,Purtell,,Chicago,American
+Ambrose,Puttman,,Louisville,Minor
+Lee,Quillen,,Minneapolis,Minor
+Jack,Quinn,,New York,American
+Newt,Randall,,Milwaukee,Minor
+Bugs,Raymond,,New York,National
+Ed,Reagan,,New Orleans,Southern
+Ed,Reulbach,Glove Showing,Chicago,National
+Ed,Reulbach,No Glove Showing,Chicago,National
+Dutch,Revelle,,Richmond,Southern
+Bob,Rhoades,Hands At Chest,Cleveland,American
+Bob,Rhoades,Right Arm Extended,Cleveland,American
+Charlie,Rhodes,,St. Louis,National
+Claude,Ritchey,,Boston,National
+Lou,Ritter,,Kansas City,Minor
+Ike,Rockenfeld,,Montgomery,Southern
+Claude,Rossman,,Detroit,American
+Nap,Rucker,Portrait,Brooklyn,National
+Nap,Rucker,Throwing,Brooklyn,National
+Dick,Rudolph,,Toronto,Minor
+Ray,Ryan,,Roanoke,Southern
+Germany,Schaefer,Detroit,Detroit,American
+Germany,Schaefer,Washington,Washington,American
+George,Schirm,,Buffalo,Minor
+Larry,Schlafly,,Newark,Minor
+Admiral,Schlei,Portrait,New York,National
+Admiral,Schlei,Catching,New York,National
+Admiral,Schlei,Batting,New York,National
+Boss,Schmidt,Portrait,Detroit,American
+Boss,Schmidt,Throwing,Detroit,American
+Ossee,Schreck,,Columbus,Minor
+Wildfire,Schulte,Front View,Chicago,National
+Wildfire,Schulte,Back View,Chicago,National
+Jim,Scott,,Chicago,American
+Charles,Seitz,,Norfolk,Southern
+Cy,Seymour,Portrait,New York,National
+Cy,Seymour,Batting,New York,National
+Cy,Seymour,Throwing,New York,National
+Spike,Shannon,,Kansas City,Minor
+Bud,Sharpe,,Newark,Minor
+Shag,Shaughnessy,,Roanoke,Southern
+Hunky,Shaw,,Providence,Minor
+Al,Shaw,,St. Louis,National
+Jimmy,Sheckard,No Glove Showing,Chicago,National
+Jimmy,Sheckard,Glove Showing,Chicago,National
+Bill,Shipke,,Washington,American
+Jimmy,Slagle,,Baltimore,Minor
+Sid,Smith,,Atlanta,Southern
+Happy,Smith,,Brooklyn,National
+Heinie,Smith,,Buffalo,Minor
+Frank,Smith,Chicago & Boston,Boston,American
+Frank,Smith,Chicago & Boston,Chicago,American
+Frank,Smith,F. Smith on Front,Chicago,American
+Frank,Smith,White Cap,Chicago,American
+Carlos,Smith,,Shreveport,Southern
+Fred,Snodgrass,Catching,New York,National
+Fred,Snodgrass,Batting,New York,National
+Bob,Spade,,Cincinnati,National
+Tris,Speaker,,Boston,American
+Tubby,Spencer,,Boston,American
+Jake,Stahl,No Glove Shows,Boston,American
+Jake,Stahl,Glove Shows,Boston,American
+Oscar,Stanage,,Detroit,American
+Dolly,Stark,,San Antonio,Southern
+Charlie,Starr,,Boston,National
+Harry,Steinfeldt,Portrait,Chicago,National
+Harry,Steinfeldt,With Bat,Chicago,National
+Jim,Stephens,,St. Louis,American
+George,Stone,,St. Louis,American
+George,Stovall,Portrait,Cleveland,American
+George,Stovall,Batting,Cleveland,American
+Sam,Strang,,Baltimore,Minor
+Gabby,Street,Portrait,Washington,American
+Gabby,Street,Catching,Washington,American
+Billy,Sullivan,,Chicago,American
+Ed,Summers,,Detroit,American
+Bill,Sweeney,,Boston,National
+Jeff,Sweeney,,New York,American
+Lee,Tannehill,L. Tannehill on Front,Chicago,American
+Lee,Tannehill,Tannehill on Front,Chicago,American
+Jesse,Tannehill,,Washington,American
+Dummy,Taylor,,Buffalo,Minor
+Fred,Tenney,,New York,National
+Tony,Thebo,,Waco,Southern
+Jake,Thielman,,Louisville,Minor
+Ira,Thomas,,Philadelphia,American
+Woodie,Thornton,,Mobile,Southern
+Joe,Tinker,Portrait,Chicago,National
+Joe,Tinker,Hands On Knees,Chicago,National
+Joe,Tinker,Bat Off Shoulder,Chicago,National
+Joe,Tinker,Bat On Shoulder,Chicago,National
+John,Titus,,Philadelphia,National
+Terry,Turner,,Cleveland,American
+Bob,Unglaub,,Washington,American
+Juan,Violat,,Jacksonville,Southern
+Rube,Waddell,Portrait,St. Louis,American
+Rube,Waddell,Throwing,St. Louis,American
+Heinie,Wagner,Bat On Left Shoulder,Boston,American
+Heinie,Wagner,Bat On Right Shoulder,Boston,American
+Honus,Wagner,,Pittsburgh,National
+Bobby,Wallace,,St. Louis,American
+Ed,Walsh,,Chicago,American
+Jack,Warhop,,New York,American
+Jake,Weimer,,New York,National
+James,Westlake,,Danville,Southern
+Zack,Wheat,,Brooklyn,National
+Jack,White,,Buffalo,Minor
+Doc,White,Portrait,Chicago,American
+Doc,White,Pitching,Chicago,American
+Foley,White,,Houston,Southern
+Kaiser,Wilhelm,Hands At Chest,Brooklyn,National
+Kaiser,Wilhelm,With Bat,Brooklyn,National
+Ed,Willett,,Detroit,American
+Ed,Willetts,,Detroit,American
+Jimmy,Williams,,St. Louis,American
+Vic,Willis,Portrait,Pittsburgh,National
+Vic,Willis,With Bat,St. Louis,National
+Vic,Willis,Throwing,St. Louis,National
+Owen,Wilson,,Pittsburgh,National
+Hooks,Wiltse,"Portrait, No Cap",New York,National
+Hooks,Wiltse,"Portrait, With Cap",New York,National
+Hooks,Wiltse,Pitching,New York,National
+Lucky,Wright,,Toledo,Minor
+Cy,Young,Portrait,Cleveland,American
+Cy,Young,Bare Hand Shows,Cleveland,American
+Cy,Young,Glove Shows,Cleveland,American
+Irv,Young,,Minneapolis,Minor
+Heinie,Zimmerman,,Chicago,National
