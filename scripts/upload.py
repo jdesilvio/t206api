@@ -63,6 +63,8 @@ def upload_card_teams(filepath):
                 teams.insert().values(
                     card_id=card.id, team_id=team.id))
 
+            print(card, '<==>', team)
+
 
 def upload_variations(filepath):
     with open(filepath) as f:
@@ -154,6 +156,8 @@ def upload_back_series(filepath):
             db.session.execute(
                 serieses.insert().values(
                     back_id=back.id, series_id=series.id))
+
+            print(back, '<==>', series)
 
 
 if __name__ == '__main__':
