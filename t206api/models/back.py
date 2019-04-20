@@ -49,7 +49,7 @@ class Back(db.Model):
     overprint = db.Column(db.Boolean, nullable=False)
 
     # The series that the back belongs to
-    series = db.relationship(
+    serieses = db.relationship(
         'Series', secondary=serieses, lazy='subquery',
         backref=db.backref('backs', lazy=True))
 
