@@ -13,6 +13,7 @@ from flask import Flask, request, Response
 from flask_migrate import Migrate
 
 from .db import db
+from .db_conn import DATABASE_CONNECTION_URI
 from .ma import ma
 from .models import Card
 from .schemas import card_schema, cards_schema
@@ -26,7 +27,8 @@ DB_URI = 'sqlite:///' + os.path.join(BASE_DIR, '..', DB_NAME)
 def create_app(db_uri=None):
     """Create the Flask application."""
     app = Flask(__name__.split('.')[1])
-    db_uri = db_uri if db_uri else DB_URI
+    #db_uri = db_uri if db_uri else DB_URI
+    db_uri = DATABASE_CONNECTION_URI
     app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
 
     # Setup database
