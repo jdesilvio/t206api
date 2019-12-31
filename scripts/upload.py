@@ -1,4 +1,4 @@
-"""Script to upload data to database."""
+"""Script to load data to database."""
 
 import csv
 
@@ -6,21 +6,19 @@ from t206api.models import Back, Card, Factory, Series, Team, Variation
 from t206api.models.series import serieses
 from t206api.models.team import teams
 
-from t206api.app import create_app
 from t206api.db import db
 
 
-def upload_data(filepath, model):
+def load_data(filepath, model):
     with open(filepath) as f:
         reader = csv.DictReader(f)
         for item in reader:
             inst = model(**item)
             db.session.add(inst)
             db.session.commit()
-            print(inst.id, inst)
 
 
-def upload_cards(filepath):
+def load_cards(filepath):
     bool_fields = ['hof', 'portrait', 'horizontal']
     null_fields = ['lipset_number', 'pose']
 
@@ -41,10 +39,9 @@ def upload_cards(filepath):
             card = Card(**item)
             db.session.add(card)
             db.session.commit()
-            print(card.id, card)
 
 
-def upload_card_teams(filepath):
+def load_card_teams(filepath):
     with open(filepath) as f:
         reader = csv.DictReader(f)
         for item in reader:
@@ -55,18 +52,16 @@ def upload_card_teams(filepath):
             ).one()
 
             team = Team.query.filter_by(
-                city=item['city'],
-                league=item['league']
+                city=item['city'], league=item['league']
             ).one()
 
             db.session.execute(
-                teams.insert().values(
-                    card_id=card.id, team_id=team.id))
+                teams.insert().values(card_id=card.id, team_id=team.id)
+            )
+            db.session.commit()
 
-            print(card, '<==>', team)
 
-
-def upload_variations(filepath):
+def load_variations(filepath):
     with open(filepath) as f:
         reader = csv.DictReader(f)
         for item in reader:
@@ -77,15 +72,14 @@ def upload_variations(filepath):
             ).one()
 
             variation = Variation(
-                card_id=card.id,
-                description=item['description'])
+                card_id=card.id, description=item['description']
+            )
 
             db.session.add(variation)
             db.session.commit()
-            print(variation.id, variation)
 
 
-def upload_backs(filepath):
+def load_backs(filepath):
     bool_fields = ['overprint']
     null_fields = ['variation']
 
@@ -116,10 +110,9 @@ def upload_backs(filepath):
 
             db.session.add(back)
             db.session.commit()
-            print(back.id, back)
 
 
-def upload_back_series(filepath):
+def load_back_series(filepath):
     bool_fields = ['overprint']
     null_fields = ['variation']
 
@@ -155,19 +148,18 @@ def upload_back_series(filepath):
 
             db.session.execute(
                 serieses.insert().values(
-                    back_id=back.id, series_id=series.id))
+                    back_id=back.id, series_id=series.id
+                )
+            )
+            db.session.commit()
 
-            print(back, '<==>', series)
 
-
-if __name__ == '__main__':
-    app = create_app()
-
-    upload_data('./data/factory.csv', Factory)
-    upload_data('./data/series.csv', Series)
-    upload_data('./data/team.csv', Team)
-    upload_cards('./data/card.csv')
-    upload_card_teams('./data/card_teams.csv')
-    upload_variations('./data/variation.csv')
-    upload_backs('./data/back.csv')
-    upload_back_series('./data/back_series.csv')
+def load_all_data():
+    load_data('./data/factory.csv', Factory)
+    load_data('./data/series.csv', Series)
+    load_data('./data/team.csv', Team)
+    load_cards('./data/card.csv')
+    load_card_teams('./data/card_teams.csv')
+    load_variations('./data/variation.csv')
+    load_backs('./data/back.csv')
+    load_back_series('./data/back_series.csv')
