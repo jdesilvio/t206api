@@ -16,7 +16,7 @@ class CardSchema(ma.Schema):
     class Meta:  # pylint: disable=no-init,old-style-class
         """Included fields."""
 
-        fields = ('first_name', 'last_name', 'variety', '_links')
+        fields = ('first_name', 'last_name', '_links')
 
     _links = ma.Hyperlinks({
         'collection': ma.URLFor('get_cards')

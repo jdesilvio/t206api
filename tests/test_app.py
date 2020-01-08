@@ -47,9 +47,8 @@ class TestApp(unittest.TestCase):
 
     def test_get_cards(self):
         """Test getting all cards."""
-        card1 = CardFactory()
-        self.session.commit()
-        card2 = CardFactory()
+        CardFactory()
+        CardFactory()
         self.session.commit()
         resp = self.app.get('cards')
         data = resp.json
@@ -57,55 +56,27 @@ class TestApp(unittest.TestCase):
         assert resp.status_code == 200
         assert len(data) == 2
 
-        assert data[0]['first_name'] == card1.first_name
-        assert data[0]['last_name'] == card1.last_name
-        assert data[0]['variety'] == card1.variety
-
-        assert data[1]['first_name'] == card2.first_name
-        assert data[1]['last_name'] == card2.last_name
-        assert data[1]['variety'] == card2.variety
-
     def test_get_card(self):
         """Test getting a specific card."""
-        card = CardFactory()
+        CardFactory()
         self.session.commit()
         resp = self.app.get('cards/1')
-        data = resp.json
 
         assert resp.status_code == 200
-
-        assert data['first_name'] == card.first_name
-        assert data['last_name'] == card.last_name
-        assert data['variety'] == card.variety
 
     def test_create_card(self):
         """Test creating a new card."""
         data = {
             'first_name': 'Ty',
             'last_name': 'Cobb',
-            'variety': 'green portrait'
+            'team_name': 'Detroit',
+            'hof': True,
+            'portrait': True,
+            'horizontal': False
         }
         resp = self.app.post('cards', json=data)
 
         assert resp.status_code == 200
-
-        assert data['first_name'] == resp.json['first_name']
-        assert data['last_name'] == resp.json['last_name']
-        assert data['variety'] == resp.json['variety']
-
-    def test_create_card_missing_variety(self):  # pylint: disable=invalid-name
-        """Test creating a new card without a variety."""
-        data = {
-            'first_name': 'Ty',
-            'last_name': 'Cobb',
-        }
-        resp = self.app.post('cards', json=data)
-
-        assert resp.status_code == 200
-
-        assert data['first_name'] == resp.json['first_name']
-        assert data['last_name'] == resp.json['last_name']
-        assert resp.json['variety'] is None
 
     def test_create_card_missing_name(self):
         """Test creating a new card without a name."""
@@ -121,7 +92,6 @@ class TestApp(unittest.TestCase):
         data = {
             'first_name': 'Ty',
             'last_name': 'Cobb',
-            'variety': 'green portrait'
         }
         CardFactory()
         self.session.commit()
@@ -129,22 +99,14 @@ class TestApp(unittest.TestCase):
 
         assert resp.status_code == 200
 
-        assert data['first_name'] == resp.json['first_name']
-        assert data['last_name'] == resp.json['last_name']
-        assert data['variety'] == resp.json['variety']
-
     def test_delete_card(self):
         """Test deleting a card."""
         CardFactory()
         self.session.commit()
+
         resp = self.app.get('cards/1')
-
         assert resp.status_code == 200
-
         resp = self.app.delete('cards/1')
-
         assert resp.status_code == 200
-
         resp = self.app.get('cards/1')
-
         assert resp.status_code == 404
