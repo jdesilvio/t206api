@@ -47,8 +47,7 @@ class TestApp(unittest.TestCase):
 
     def test_get_cards(self):
         """Test getting all cards."""
-        CardFactory()
-        CardFactory()
+        CardFactory.create_batch(2)
         self.session.commit()
         resp = self.app.get('cards')
         data = resp.json
